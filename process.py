@@ -7,7 +7,7 @@ from config.config import intervalo_coleta_minutos
 from logs.logger import registrar_log
 
 
-# primeiro commit
+# primeiro commit e
 class process_handle:
 
     def executar(self):
