@@ -1,0 +1,9 @@
+﻿chave_registro,tabela_origem,id_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_detraf_status_itx_33785,tbl_rpa_log_detraf_status_itx,33785,33785,Fechamento Contabil ITX,Iniciado,Sucesso,Acionamento2 [Iniciado] Período 202609,2026-09-29 15:37:05,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33786,tbl_rpa_log_detraf_status_itx,33786,33786,Fechamento Contabil ITX,Iniciado,Sucesso,Fase7_RelatorioCdg [OK] 02. FCST_Comitê Contestações_Set26_Consolidado.xlsx,2026-09-29 15:38:21,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33787,tbl_rpa_log_detraf_status_itx,33787,33787,Fechamento Contabil ITX,Iniciado,Sucesso,Fase8_BatchSap [OK] 3 arquivo(s),2026-09-29 15:39:31,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33788,tbl_rpa_log_detraf_status_itx,33788,33788,Fechamento Contabil ITX,Finalizado,Sucesso,Acionamento2 [Concluido] Período 202609 finalizado.,2026-09-29 15:39:31,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33789,tbl_rpa_log_detraf_status_itx,33789,33789,Fechamento Contabil ITX,Iniciado,Sucesso,Acionamento2 [Iniciado] Período 202609,2026-09-29 16:43:10,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33790,tbl_rpa_log_detraf_status_itx,33790,33790,Fechamento Contabil ITX,Iniciado,Sucesso,Fase7_RelatorioCdg [OK] 02. FCST_Comitê Contestações_Set26_Consolidado.xlsx,2026-09-29 16:44:21,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33791,tbl_rpa_log_detraf_status_itx,33791,33791,Fechamento Contabil ITX,Iniciado,Sucesso,Fase8_BatchSap [OK] 3 arquivo(s),2026-09-29 16:45:27,2026-10-12 21:28:19.646701
+tbl_rpa_log_detraf_status_itx_33792,tbl_rpa_log_detraf_status_itx,33792,33792,Fechamento Contabil ITX,Finalizado,Sucesso,Acionamento2 [Concluido] Período 202609 finalizado.,2026-09-29 16:45:27,2026-10-12 21:28:19.646701

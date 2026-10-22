@@ -1,0 +1,6 @@
+mysql-connector-python
+python-dotenv
+pandas
+scikit-learn 
+joblib
+pywin32

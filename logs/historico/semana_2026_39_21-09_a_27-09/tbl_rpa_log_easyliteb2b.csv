@@ -1,0 +1,233 @@
+﻿chave_registro,tabela_origem,id_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_easyliteb2b_2034,tbl_rpa_log_easyliteb2b,2034,2034,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-21 10:00:08.551,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2035,tbl_rpa_log_easyliteb2b,2035,2035,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Em execução,Limpando pastas antigas...,2026-09-21 10:00:08.587,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2036,tbl_rpa_log_easyliteb2b,2036,2036,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260918', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260919', 'retida (delta=2d)'), ('EasyLiteNF_20260920', 'retida (delta=1d)'), ('EasyLiteNF_20260921', 'run atual')], 'erros': []}",2026-09-21 10:00:08.626,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2037,tbl_rpa_log_easyliteb2b,2037,2037,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-21 10:00:08.656,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2038,tbl_rpa_log_easyliteb2b,2038,2038,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 8,2026-09-21 10:01:09.593,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2039,tbl_rpa_log_easyliteb2b,2039,2039,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Em execução,Realizando download das NFs via Selenium...,2026-09-21 10:01:09.672,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2040,tbl_rpa_log_easyliteb2b,2040,2040,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,Download das NFs via Selenium finalizado.,2026-09-21 10:03:10.726,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2041,tbl_rpa_log_easyliteb2b,2041,2041,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Em execução,Iniciando consultas na API da SEFAZ...,2026-09-21 10:03:10.758,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2042,tbl_rpa_log_easyliteb2b,2042,2042,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-09-21 10:03:11.617,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2043,tbl_rpa_log_easyliteb2b,2043,2043,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Em execução,Disparando NFs por e-mail...,2026-09-21 10:03:11.654,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2044,tbl_rpa_log_easyliteb2b,2044,2044,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-09-21 10:03:12.645,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2045,tbl_rpa_log_easyliteb2b,2045,2045,Easy Lite B2B,562e78eb-232c-42fd-a4b2-eec7cc147d92,Sucesso,End: Tempo total de execução: 00:03:09,2026-09-21 10:03:12.678,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2046,tbl_rpa_log_easyliteb2b,2046,2046,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-22 10:00:22.399,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2047,tbl_rpa_log_easyliteb2b,2047,2047,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Em execução,Limpando pastas antigas...,2026-09-22 10:00:22.446,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2048,tbl_rpa_log_easyliteb2b,2048,2048,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260919', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260920', 'retida (delta=2d)'), ('EasyLiteNF_20260921', 'retida (delta=1d)'), ('EasyLiteNF_20260922', 'run atual')], 'erros': []}",2026-09-22 10:00:22.489,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2049,tbl_rpa_log_easyliteb2b,2049,2049,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-22 10:00:22.541,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2050,tbl_rpa_log_easyliteb2b,2050,2050,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 10,2026-09-22 10:00:57.059,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2051,tbl_rpa_log_easyliteb2b,2051,2051,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Em execução,Realizando download das NFs via Selenium...,2026-09-22 10:00:57.182,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2052,tbl_rpa_log_easyliteb2b,2052,2052,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,Download das NFs via Selenium finalizado.,2026-09-22 10:03:20.615,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2053,tbl_rpa_log_easyliteb2b,2053,2053,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Em execução,Iniciando consultas na API da SEFAZ...,2026-09-22 10:03:20.665,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2054,tbl_rpa_log_easyliteb2b,2054,2054,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-09-22 10:03:21.719,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2055,tbl_rpa_log_easyliteb2b,2055,2055,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Em execução,Disparando NFs por e-mail...,2026-09-22 10:03:21.774,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2056,tbl_rpa_log_easyliteb2b,2056,2056,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-09-22 10:03:23.221,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2057,tbl_rpa_log_easyliteb2b,2057,2057,Easy Lite B2B,5fcf25cb-9510-4145-9a87-61b78e7b6d4a,Sucesso,End: Tempo total de execução: 00:03:19,2026-09-22 10:03:23.264,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2058,tbl_rpa_log_easyliteb2b,2058,2058,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-23 10:00:21.602,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2059,tbl_rpa_log_easyliteb2b,2059,2059,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Em execução,Limpando pastas antigas...,2026-09-23 10:00:21.639,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2060,tbl_rpa_log_easyliteb2b,2060,2060,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260920', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260921', 'retida (delta=2d)'), ('EasyLiteNF_20260922', 'retida (delta=1d)'), ('EasyLiteNF_20260923', 'run atual')], 'erros': []}",2026-09-23 10:00:21.676,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2061,tbl_rpa_log_easyliteb2b,2061,2061,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-23 10:00:21.713,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2062,tbl_rpa_log_easyliteb2b,2062,2062,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 4,2026-09-23 10:00:31.911,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2063,tbl_rpa_log_easyliteb2b,2063,2063,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Em execução,Realizando download das NFs via Selenium...,2026-09-23 10:00:32.011,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2064,tbl_rpa_log_easyliteb2b,2064,2064,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,Download das NFs via Selenium finalizado.,2026-09-23 10:01:48.325,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2065,tbl_rpa_log_easyliteb2b,2065,2065,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Em execução,Iniciando consultas na API da SEFAZ...,2026-09-23 10:01:48.362,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2066,tbl_rpa_log_easyliteb2b,2066,2066,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-09-23 10:01:49.005,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2067,tbl_rpa_log_easyliteb2b,2067,2067,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Em execução,Disparando NFs por e-mail...,2026-09-23 10:01:49.037,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2068,tbl_rpa_log_easyliteb2b,2068,2068,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-09-23 10:01:49.880,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2069,tbl_rpa_log_easyliteb2b,2069,2069,Easy Lite B2B,e2f19d09-7d95-4ef0-855c-00cfeb0e5f4c,Sucesso,End: Tempo total de execução: 00:01:46,2026-09-23 10:01:49.924,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2070,tbl_rpa_log_easyliteb2b,2070,2070,Easy Lite B2B,846e5e60-8091-4191-9f70-ebc16fd92d90,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-24 10:00:11.377,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2071,tbl_rpa_log_easyliteb2b,2071,2071,Easy Lite B2B,846e5e60-8091-4191-9f70-ebc16fd92d90,Em execução,Limpando pastas antigas...,2026-09-24 10:00:11.420,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2072,tbl_rpa_log_easyliteb2b,2072,2072,Easy Lite B2B,846e5e60-8091-4191-9f70-ebc16fd92d90,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260921', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260922', 'retida (delta=2d)'), ('EasyLiteNF_20260923', 'retida (delta=1d)'), ('EasyLiteNF_20260924', 'run atual')], 'erros': []}",2026-09-24 10:00:11.459,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2073,tbl_rpa_log_easyliteb2b,2073,2073,Easy Lite B2B,846e5e60-8091-4191-9f70-ebc16fd92d90,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-24 10:00:11.497,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2074,tbl_rpa_log_easyliteb2b,2074,2074,Easy Lite B2B,846e5e60-8091-4191-9f70-ebc16fd92d90,Erro,"Processo finalizado com erro: Execution failed on sql '
+        SELECT A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '') AS DOCUMENTO
+            , '' AS RAZAO
+            , ID_VIVO AS CONTRATO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') AS DT_COMPRA
+        FROM DEXD.REPORT_PURCHASE_INCOME A
+            LEFT JOIN DEXD.REPORT_CLIENT_STATUS B
+                ON A.TELEFONE = B.TELEFONE
+        WHERE UPPER(A.STATUS_COMPRA) = 'SUCESSO'
+            AND UPPER(B.STATUS_LINHA) = 'ATIVO'
+            AND CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') >= CURRENT_DATE - 1
+        GROUP BY A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '')
+            , ID_VIVO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS')
+        HAVING CASE WHEN ( MAX(B.TIPO_DE_DOCUMENTO) = 'CNPJ' AND LENGTH( MAX(A.DOCUMENTO) ) = 14 ) THEN 1 ELSE 0 END = 1
+        ;
+        ': [Version 20.0.0.53] [Session 83426025] [Teradata Database] [Error 3809] Column 'ID_VIVO' is ambiguous.
+ at gosqldriver/teradatasql.formatError ErrorUtil.go:101
+ at gosqldriver/teradatasql.(*TeradataConnection).formatDatabaseError ErrorUtil.go:210
+ at gosqldriver/teradatasql.(*TeradataConnection).makeChainedDatabaseError ErrorUtil.go:226
+ at gosqldriver/teradatasql.(*TeradataConnection).processErrorParcel TeradataConnection.go:380
+ at gosqldriver/teradatasql.(*TeradataRows).processResponseBundle TeradataRows.go:2728
+ at gosqldriver/teradatasql.(*TeradataRows).executeSQLRequest TeradataRows.go:1198
+ at gosqldriver/teradatasql.newTeradataRows TeradataRows.go:809
+ at gosqldriver/teradatasql.(*teradataStatement).QueryContext TeradataStatement.go:122
+ at gosqldriver/teradatasql.(*TeradataConnection).QueryContext TeradataConnection.go:878
+ at database/sql.ctxDriverQuery ctxutil.go:48
+ at database/sql.(*DB).queryDC.func1 sql.go:1786
+ at database/sql.withLock sql.go:3572
+ at database/sql.(*DB).queryDC sql.go:1781
+ at database/sql.(*Conn).QueryContext sql.go:2037
+ at main.createRows goside.go:1444
+ at main.createRowsC goside.go:1389
+ at main.goCreateRows goside.go:1300
+ at _cgoexp_757e1b9c0dc9_goCreateRows _cgo_gotypes.go:527
+ at runtime.cgocallbackg1 cgocall.go:466
+ at runtime.cgocallbackg cgocall.go:362
+ at runtime.cgocallback asm_amd64.s:1160
+ at runtime.goexit asm_amd64.s:1771",2026-09-24 10:00:13.669,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2075,tbl_rpa_log_easyliteb2b,2075,2075,Easy Lite B2B,073284be-bbfe-4c68-b053-4cdd0c25ba5d,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-25 10:00:09.820,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2076,tbl_rpa_log_easyliteb2b,2076,2076,Easy Lite B2B,073284be-bbfe-4c68-b053-4cdd0c25ba5d,Em execução,Limpando pastas antigas...,2026-09-25 10:00:09.861,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2077,tbl_rpa_log_easyliteb2b,2077,2077,Easy Lite B2B,073284be-bbfe-4c68-b053-4cdd0c25ba5d,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260922', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260923', 'retida (delta=2d)'), ('EasyLiteNF_20260924', 'retida (delta=1d)'), ('EasyLiteNF_20260925', 'run atual')], 'erros': []}",2026-09-25 10:00:09.902,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2078,tbl_rpa_log_easyliteb2b,2078,2078,Easy Lite B2B,073284be-bbfe-4c68-b053-4cdd0c25ba5d,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-25 10:00:09.936,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2079,tbl_rpa_log_easyliteb2b,2079,2079,Easy Lite B2B,073284be-bbfe-4c68-b053-4cdd0c25ba5d,Erro,"Processo finalizado com erro: Execution failed on sql '
+        SELECT A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '') AS DOCUMENTO
+            , '' AS RAZAO
+            , ID_VIVO AS CONTRATO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') AS DT_COMPRA
+        FROM DEXD.REPORT_PURCHASE_INCOME A
+            LEFT JOIN DEXD.REPORT_CLIENT_STATUS B
+                ON A.TELEFONE = B.TELEFONE
+        WHERE UPPER(A.STATUS_COMPRA) = 'SUCESSO'
+            AND UPPER(B.STATUS_LINHA) = 'ATIVO'
+            AND CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') >= CURRENT_DATE - 1
+        GROUP BY A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '')
+            , ID_VIVO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS')
+        HAVING CASE WHEN ( MAX(B.TIPO_DE_DOCUMENTO) = 'CNPJ' AND LENGTH( MAX(A.DOCUMENTO) ) = 14 ) THEN 1 ELSE 0 END = 1
+        ;
+        ': [Version 20.0.0.53] [Session 84158238] [Teradata Database] [Error 3809] Column 'ID_VIVO' is ambiguous.
+ at gosqldriver/teradatasql.formatError ErrorUtil.go:101
+ at gosqldriver/teradatasql.(*TeradataConnection).formatDatabaseError ErrorUtil.go:210
+ at gosqldriver/teradatasql.(*TeradataConnection).makeChainedDatabaseError ErrorUtil.go:226
+ at gosqldriver/teradatasql.(*TeradataConnection).processErrorParcel TeradataConnection.go:380
+ at gosqldriver/teradatasql.(*TeradataRows).processResponseBundle TeradataRows.go:2728
+ at gosqldriver/teradatasql.(*TeradataRows).executeSQLRequest TeradataRows.go:1198
+ at gosqldriver/teradatasql.newTeradataRows TeradataRows.go:809
+ at gosqldriver/teradatasql.(*teradataStatement).QueryContext TeradataStatement.go:122
+ at gosqldriver/teradatasql.(*TeradataConnection).QueryContext TeradataConnection.go:878
+ at database/sql.ctxDriverQuery ctxutil.go:48
+ at database/sql.(*DB).queryDC.func1 sql.go:1786
+ at database/sql.withLock sql.go:3572
+ at database/sql.(*DB).queryDC sql.go:1781
+ at database/sql.(*Conn).QueryContext sql.go:2037
+ at main.createRows goside.go:1444
+ at main.createRowsC goside.go:1389
+ at main.goCreateRows goside.go:1300
+ at _cgoexp_757e1b9c0dc9_goCreateRows _cgo_gotypes.go:527
+ at runtime.cgocallbackg1 cgocall.go:466
+ at runtime.cgocallbackg cgocall.go:362
+ at runtime.cgocallback asm_amd64.s:1160
+ at runtime.goexit asm_amd64.s:1771",2026-09-25 10:00:16.485,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2080,tbl_rpa_log_easyliteb2b,2080,2080,Easy Lite B2B,e65270fa-b4b5-4040-8a61-1557bf5825d7,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-26 10:00:09.151,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2081,tbl_rpa_log_easyliteb2b,2081,2081,Easy Lite B2B,e65270fa-b4b5-4040-8a61-1557bf5825d7,Em execução,Limpando pastas antigas...,2026-09-26 10:00:09.191,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2082,tbl_rpa_log_easyliteb2b,2082,2082,Easy Lite B2B,e65270fa-b4b5-4040-8a61-1557bf5825d7,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260923', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260924', 'retida (delta=2d)'), ('EasyLiteNF_20260925', 'retida (delta=1d)'), ('EasyLiteNF_20260926', 'run atual')], 'erros': []}",2026-09-26 10:00:09.230,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2083,tbl_rpa_log_easyliteb2b,2083,2083,Easy Lite B2B,e65270fa-b4b5-4040-8a61-1557bf5825d7,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-26 10:00:09.262,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2084,tbl_rpa_log_easyliteb2b,2084,2084,Easy Lite B2B,e65270fa-b4b5-4040-8a61-1557bf5825d7,Erro,"Processo finalizado com erro: Execution failed on sql '
+        SELECT A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '') AS DOCUMENTO
+            , '' AS RAZAO
+            , ID_VIVO AS CONTRATO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') AS DT_COMPRA
+        FROM DEXD.REPORT_PURCHASE_INCOME A
+            LEFT JOIN DEXD.REPORT_CLIENT_STATUS B
+                ON A.TELEFONE = B.TELEFONE
+        WHERE UPPER(A.STATUS_COMPRA) = 'SUCESSO'
+            AND UPPER(B.STATUS_LINHA) = 'ATIVO'
+            AND CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') >= CURRENT_DATE - 1
+        GROUP BY A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '')
+            , ID_VIVO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS')
+        HAVING CASE WHEN ( MAX(B.TIPO_DE_DOCUMENTO) = 'CNPJ' AND LENGTH( MAX(A.DOCUMENTO) ) = 14 ) THEN 1 ELSE 0 END = 1
+        ;
+        ': [Version 20.0.0.53] [Session 84890207] [Teradata Database] [Error 3809] Column 'ID_VIVO' is ambiguous.
+ at gosqldriver/teradatasql.formatError ErrorUtil.go:101
+ at gosqldriver/teradatasql.(*TeradataConnection).formatDatabaseError ErrorUtil.go:210
+ at gosqldriver/teradatasql.(*TeradataConnection).makeChainedDatabaseError ErrorUtil.go:226
+ at gosqldriver/teradatasql.(*TeradataConnection).processErrorParcel TeradataConnection.go:380
+ at gosqldriver/teradatasql.(*TeradataRows).processResponseBundle TeradataRows.go:2728
+ at gosqldriver/teradatasql.(*TeradataRows).executeSQLRequest TeradataRows.go:1198
+ at gosqldriver/teradatasql.newTeradataRows TeradataRows.go:809
+ at gosqldriver/teradatasql.(*teradataStatement).QueryContext TeradataStatement.go:122
+ at gosqldriver/teradatasql.(*TeradataConnection).QueryContext TeradataConnection.go:878
+ at database/sql.ctxDriverQuery ctxutil.go:48
+ at database/sql.(*DB).queryDC.func1 sql.go:1786
+ at database/sql.withLock sql.go:3572
+ at database/sql.(*DB).queryDC sql.go:1781
+ at database/sql.(*Conn).QueryContext sql.go:2037
+ at main.createRows goside.go:1444
+ at main.createRowsC goside.go:1389
+ at main.goCreateRows goside.go:1300
+ at _cgoexp_757e1b9c0dc9_goCreateRows _cgo_gotypes.go:527
+ at runtime.cgocallbackg1 cgocall.go:466
+ at runtime.cgocallbackg cgocall.go:362
+ at runtime.cgocallback asm_amd64.s:1160
+ at runtime.goexit asm_amd64.s:1771",2026-09-26 10:00:11.579,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2085,tbl_rpa_log_easyliteb2b,2085,2085,Easy Lite B2B,e2b557d6-b2c3-47d5-ac9e-a0e0b879eac8,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-09-27 10:00:07.947,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2086,tbl_rpa_log_easyliteb2b,2086,2086,Easy Lite B2B,e2b557d6-b2c3-47d5-ac9e-a0e0b879eac8,Em execução,Limpando pastas antigas...,2026-09-27 10:00:07.991,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2087,tbl_rpa_log_easyliteb2b,2087,2087,Easy Lite B2B,e2b557d6-b2c3-47d5-ac9e-a0e0b879eac8,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260924', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260925', 'retida (delta=2d)'), ('EasyLiteNF_20260926', 'retida (delta=1d)'), ('EasyLiteNF_20260927', 'run atual')], 'erros': []}",2026-09-27 10:00:08.053,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2088,tbl_rpa_log_easyliteb2b,2088,2088,Easy Lite B2B,e2b557d6-b2c3-47d5-ac9e-a0e0b879eac8,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-09-27 10:00:08.087,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_2089,tbl_rpa_log_easyliteb2b,2089,2089,Easy Lite B2B,e2b557d6-b2c3-47d5-ac9e-a0e0b879eac8,Erro,"Processo finalizado com erro: Execution failed on sql '
+        SELECT A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '') AS DOCUMENTO
+            , '' AS RAZAO
+            , ID_VIVO AS CONTRATO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') AS DT_COMPRA
+        FROM DEXD.REPORT_PURCHASE_INCOME A
+            LEFT JOIN DEXD.REPORT_CLIENT_STATUS B
+                ON A.TELEFONE = B.TELEFONE
+        WHERE UPPER(A.STATUS_COMPRA) = 'SUCESSO'
+            AND UPPER(B.STATUS_LINHA) = 'ATIVO'
+            AND CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS') >= CURRENT_DATE - 1
+        GROUP BY A.ID_COMPRA
+            , A.TELEFONE
+            , OREPLACE(A.DOCUMENTO, '.', '')
+            , ID_VIVO
+            , B.EMAIL
+            , CAST(A.DATA_COMPRA || ' ' || A.HORA_COMPRA AS TIMESTAMP(0) FORMAT 'YYYY-MM-DD BHH:MI:SS')
+        HAVING CASE WHEN ( MAX(B.TIPO_DE_DOCUMENTO) = 'CNPJ' AND LENGTH( MAX(A.DOCUMENTO) ) = 14 ) THEN 1 ELSE 0 END = 1
+        ;
+        ': [Version 20.0.0.53] [Session 85625911] [Teradata Database] [Error 3809] Column 'ID_VIVO' is ambiguous.
+ at gosqldriver/teradatasql.formatError ErrorUtil.go:101
+ at gosqldriver/teradatasql.(*TeradataConnection).formatDatabaseError ErrorUtil.go:210
+ at gosqldriver/teradatasql.(*TeradataConnection).makeChainedDatabaseError ErrorUtil.go:226
+ at gosqldriver/teradatasql.(*TeradataConnection).processErrorParcel TeradataConnection.go:380
+ at gosqldriver/teradatasql.(*TeradataRows).processResponseBundle TeradataRows.go:2728
+ at gosqldriver/teradatasql.(*TeradataRows).executeSQLRequest TeradataRows.go:1198
+ at gosqldriver/teradatasql.newTeradataRows TeradataRows.go:809
+ at gosqldriver/teradatasql.(*teradataStatement).QueryContext TeradataStatement.go:122
+ at gosqldriver/teradatasql.(*TeradataConnection).QueryContext TeradataConnection.go:878
+ at database/sql.ctxDriverQuery ctxutil.go:48
+ at database/sql.(*DB).queryDC.func1 sql.go:1786
+ at database/sql.withLock sql.go:3572
+ at database/sql.(*DB).queryDC sql.go:1781
+ at database/sql.(*Conn).QueryContext sql.go:2037
+ at main.createRows goside.go:1444
+ at main.createRowsC goside.go:1389
+ at main.goCreateRows goside.go:1300
+ at _cgoexp_757e1b9c0dc9_goCreateRows _cgo_gotypes.go:527
+ at runtime.cgocallbackg1 cgocall.go:466
+ at runtime.cgocallbackg cgocall.go:362
+ at runtime.cgocallback asm_amd64.s:1160
+ at runtime.goexit asm_amd64.s:1771",2026-09-27 10:00:15.032,2026-10-12 21:28:20.279295

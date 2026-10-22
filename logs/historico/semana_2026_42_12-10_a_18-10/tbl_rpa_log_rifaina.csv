@@ -1,0 +1,343 @@
+﻿chave_registro,tabela_origem,id_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_rifaina_4018,tbl_rpa_log_rifaina,4018.0,4018,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Horário de corte não está ativo. Agendamentos liberados.,2026-10-12 00:00:00,2026-10-12 21:28:17.257467
+tbl_rpa_log_rifaina_4019,tbl_rpa_log_rifaina,4019.0,4019,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Estado] Virada de dia: 2026-10-11 → 2026-10-12. Contadores resetados. GPS: 0, SIEBEL: 0, REINS: 0",2026-10-12 00:00:02,2026-10-12 21:28:17.257467
+tbl_rpa_log_rifaina_4020,tbl_rpa_log_rifaina,,4020,Rifaina,Finalizado,Sucesso,WARNING - OrquestradorGPS - [GPS] Novos agendamentos suspensos devido ao horário de corte.,2026-10-12 23:50:09,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4021,tbl_rpa_log_rifaina,,4021,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Horário de corte não está ativo. Agendamentos liberados.,2026-10-13 00:00:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4022,tbl_rpa_log_rifaina,,4022,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Estado] Virada de dia: 2026-10-12 → 2026-10-13. Contadores resetados. GPS: 0, SIEBEL: 0, REINS: 0",2026-10-13 00:00:16,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4023,tbl_rpa_log_rifaina,,4023,Rifaina,Finalizado,Sucesso,WARNING - Thread-2 (process) - CTRL+SHIFT+Q detectado. Sinalizando encerramento seguro.,2026-10-13 09:12:49,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4024,tbl_rpa_log_rifaina,,4024,Rifaina,Finalizado,Sucesso,WARNING - Thread-2 (process) - [Estado] Sinal de encerramento acionado,2026-10-13 09:12:49,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4025,tbl_rpa_log_rifaina,,4025,Rifaina,Finalizado,Sucesso,INFO - MainThread - [Watchdog] Sinal de encerramento detectado.,2026-10-13 09:12:49,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4026,tbl_rpa_log_rifaina,,4026,Rifaina,Finalizado,Sucesso,INFO - OrquestradorREINS - [REINS] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:12:50,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4027,tbl_rpa_log_rifaina,,4027,Rifaina,Finalizado,Sucesso,INFO - OrquestradorSIEBEL - [SIEBEL] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:12:50,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4028,tbl_rpa_log_rifaina,,4028,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:12:50,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4029,tbl_rpa_log_rifaina,,4029,Rifaina,Finalizado,Sucesso,INFO - MainThread - [Encerramento] Sinalizando stop_event.,2026-10-13 09:12:50,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4030,tbl_rpa_log_rifaina,,4030,Rifaina,Finalizado,Sucesso,WARNING - MainThread - [Estado] Sinal de encerramento acionado,2026-10-13 09:12:50,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4031,tbl_rpa_log_rifaina,,4031,Rifaina,Finalizado,Sucesso,INFO - MainThread - === RPA Rifaina iniciada (Modo Simultâneo com Orquestradores Independentes) ===,2026-10-13 09:17:00,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4032,tbl_rpa_log_rifaina,,4032,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Orquestrador iniciado com 2 workers.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4033,tbl_rpa_log_rifaina,,4033,Rifaina,Finalizado,Sucesso,INFO - OrquestradorSIEBEL - [SIEBEL] Orquestrador iniciado com 1 workers.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4034,tbl_rpa_log_rifaina,,4034,Rifaina,Finalizado,Sucesso,INFO - OrquestradorREINS - [REINS] Orquestrador iniciado com 2 workers.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4035,tbl_rpa_log_rifaina,,4035,Rifaina,Finalizado,Sucesso,INFO - MainThread - Orquestradores iniciados. Watchdog monitorando...,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4036,tbl_rpa_log_rifaina,,4036,Rifaina,Finalizado,Sucesso,INFO - AtalhoListener - CTRL+SHIFT+Q = Encerrar RPA,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4037,tbl_rpa_log_rifaina,,4037,Rifaina,Finalizado,Sucesso,INFO - AtalhoListener - CTRL+SHIFT+E = Enviar relatório manualmente,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4038,tbl_rpa_log_rifaina,,4038,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4039,tbl_rpa_log_rifaina,,4039,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4040,tbl_rpa_log_rifaina,,4040,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - Inicializando WebDriver do sistema SIEBEL para a thread atual.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4041,tbl_rpa_log_rifaina,,4041,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4042,tbl_rpa_log_rifaina,,4042,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:17:01,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4043,tbl_rpa_log_rifaina,,4043,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - [GPS] Tentativa de login 1/3.,2026-10-13 09:17:03,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4044,tbl_rpa_log_rifaina,,4044,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - GPS: Tentando fazer login...,2026-10-13 09:17:03,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4045,tbl_rpa_log_rifaina,,4045,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - [REINS] Tentativa de login 1/3.,2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4046,tbl_rpa_log_rifaina,,4046,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - GPS: Tentando fazer login...,2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4047,tbl_rpa_log_rifaina,,4047,Rifaina,Finalizado,Erro,"ERROR - WorkerREINS_0 - Erro na inicialização do WebDriver REINS: Falha ao realizar login no GPS: Message: tab crashed
+  (Session info: chrome=154.0.8037.98)
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\src\services\service_login_gps.py"", line 56, in fazer_login
+    self.driver.get(Config.URL_GPS)
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py"", line 512, in get
+    self.execute(Command.GET, {""url"": url})
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py"", line 492, in execute
+    self.error_handler.check_response(response)
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py"", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: tab crashed
+  (Session info: chrome=154.0.8037.98)
+
+
+During handling of the above exception, an(...)",2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4048,tbl_rpa_log_rifaina,,4048,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 0 | SIEBEL: 0 | REINS: 0 | Ativos: GPS=2, SIEBEL=1, REINS=2",2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4049,tbl_rpa_log_rifaina,,4049,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - [GPS] Tentativa de login 1/3.,2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4050,tbl_rpa_log_rifaina,,4050,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - GPS: Tentando fazer login...,2026-10-13 09:17:04,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4051,tbl_rpa_log_rifaina,,4051,Rifaina,Finalizado,Sucesso,WARNING - WorkerREINS_0 - Reiniciando WebDriver REINS da thread. Motivo: Falha no login. Reiniciando Chrome.,2026-10-13 09:17:06,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4052,tbl_rpa_log_rifaina,,4052,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:17:06,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4053,tbl_rpa_log_rifaina,,4053,Rifaina,Finalizado,Erro,"ERROR - WorkerREINS_1 - Erro na inicialização do WebDriver REINS: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741dd712c]
+	chromedriver!(No symbol) [0x7ff741dd260a]
+	chromedriver!(No symbol) [0x7ff741e2766f]
+	chromedriver!(No symbol) [0x7ff741e26ed6]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7c(...)",2026-10-13 09:17:07,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4054,tbl_rpa_log_rifaina,,4054,Rifaina,Finalizado,Sucesso,WARNING - WorkerREINS_1 - Reiniciando WebDriver REINS da thread. Motivo: Falha no login. Reiniciando Chrome.,2026-10-13 09:17:07,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4055,tbl_rpa_log_rifaina,,4055,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:17:07,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4056,tbl_rpa_log_rifaina,,4056,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - [SIEBEL] Tentativa de login 1/3.,2026-10-13 09:17:24,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4057,tbl_rpa_log_rifaina,,4057,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - SIEBEL: Tentando fazer login...,2026-10-13 09:17:24,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4058,tbl_rpa_log_rifaina,,4058,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - [REINS] Tentativa de login 1/3.,2026-10-13 09:17:27,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4059,tbl_rpa_log_rifaina,,4059,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - GPS: Tentando fazer login...,2026-10-13 09:17:27,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4060,tbl_rpa_log_rifaina,,4060,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - [REINS] Tentativa de login 1/3.,2026-10-13 09:17:28,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4061,tbl_rpa_log_rifaina,,4061,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - GPS: Tentando fazer login...,2026-10-13 09:17:28,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4062,tbl_rpa_log_rifaina,,4062,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - GPS: Login realizado com sucesso!,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4063,tbl_rpa_log_rifaina,,4063,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - GPS: Login realizado com sucesso!,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4064,tbl_rpa_log_rifaina,,4064,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - SIEBEL: Login realizado com sucesso!,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4065,tbl_rpa_log_rifaina,,4065,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - [REINS] WebDriver inicializado e login concluído.,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4066,tbl_rpa_log_rifaina,,4066,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - [REINS] WebDriver inicializado e login concluído.,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4067,tbl_rpa_log_rifaina,,4067,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - [SIEBEL] WebDriver inicializado e login concluído.,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4068,tbl_rpa_log_rifaina,,4068,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - WebDriver REINS reiniciado. Processamento será retomado.,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4069,tbl_rpa_log_rifaina,,4069,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - WebDriver REINS reiniciado. Processamento será retomado.,2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4070,tbl_rpa_log_rifaina,,4070,Rifaina,Finalizado,Erro,"ERROR - WorkerREINS_1 - Erro na etapa de REINS do GPS para a instância 1155237974: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741dd712c]
+	chromedriver!(No symbol) [0x7ff741dd260a]
+	chromedriver!(No symbol) [0x7ff741e2766f]
+	chromedriver!(No symbol) [0x7ff741e26ed6]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No sym(...)",2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4071,tbl_rpa_log_rifaina,,4071,Rifaina,Finalizado,Erro,"ERROR - WorkerREINS_0 - Erro na etapa de REINS do GPS para a instância 1155237932: Falha ao realizar login no GPS: Message: tab crashed
+  (Session info: chrome=154.0.8037.98)
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\src\services\service_login_gps.py"", line 56, in fazer_login
+    self.driver.get(Config.URL_GPS)
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py"", line 512, in get
+    self.execute(Command.GET, {""url"": url})
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\webdriver.py"", line 492, in execute
+    self.error_handler.check_response(response)
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py"", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: tab crashed
+  (Session info: chrome=154.0.8037.98)
+
+
+During handling of the ab(...)",2026-10-13 09:17:41,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4072,tbl_rpa_log_rifaina,,4072,Rifaina,Finalizado,Sucesso,WARNING - Thread-2 (process) - CTRL+SHIFT+Q detectado. Sinalizando encerramento seguro.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4073,tbl_rpa_log_rifaina,,4073,Rifaina,Finalizado,Sucesso,WARNING - Thread-2 (process) - [Estado] Sinal de encerramento acionado,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4074,tbl_rpa_log_rifaina,,4074,Rifaina,Finalizado,Sucesso,INFO - OrquestradorSIEBEL - [SIEBEL] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4075,tbl_rpa_log_rifaina,,4075,Rifaina,Finalizado,Sucesso,INFO - OrquestradorREINS - [REINS] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4076,tbl_rpa_log_rifaina,,4076,Rifaina,Finalizado,Sucesso,INFO - MainThread - [Watchdog] Sinal de encerramento detectado.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4077,tbl_rpa_log_rifaina,,4077,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Encerramento solicitado. Aguardando workers ativos.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4078,tbl_rpa_log_rifaina,,4078,Rifaina,Finalizado,Sucesso,INFO - OrquestradorSIEBEL - [SIEBEL] Orquestrador encerrado.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4079,tbl_rpa_log_rifaina,,4079,Rifaina,Finalizado,Sucesso,INFO - MainThread - [Encerramento] Sinalizando stop_event.,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4080,tbl_rpa_log_rifaina,,4080,Rifaina,Finalizado,Sucesso,WARNING - MainThread - [Estado] Sinal de encerramento acionado,2026-10-13 09:18:31,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4081,tbl_rpa_log_rifaina,,4081,Rifaina,Finalizado,Erro,"ERROR - WorkerGPS_0 - Erro na inicialização do WebDriver GPS: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	ntdll!RtlUserThreadStart [0x7ffd446f(...)",2026-10-13 09:20:06,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4082,tbl_rpa_log_rifaina,,4082,Rifaina,Finalizado,Erro,"ERROR - WorkerGPS_1 - Erro na inicialização do WebDriver GPS: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	ntdll!RtlUserThreadStart [0x7ffd446f(...)",2026-10-13 09:20:06,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4083,tbl_rpa_log_rifaina,,4083,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Reiniciando WebDriver GPS da thread. Motivo: Falha no login. Reiniciando Chrome.,2026-10-13 09:20:08,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4084,tbl_rpa_log_rifaina,,4084,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:20:08,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4085,tbl_rpa_log_rifaina,,4085,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Reiniciando WebDriver GPS da thread. Motivo: Falha no login. Reiniciando Chrome.,2026-10-13 09:20:08,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4086,tbl_rpa_log_rifaina,,4086,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:20:08,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4087,tbl_rpa_log_rifaina,,4087,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - [GPS] Tentativa de login 1/3.,2026-10-13 09:20:09,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4088,tbl_rpa_log_rifaina,,4088,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - GPS: Tentando fazer login...,2026-10-13 09:20:09,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4089,tbl_rpa_log_rifaina,,4089,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - GPS: Login realizado com sucesso!,2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4090,tbl_rpa_log_rifaina,,4090,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - [GPS] WebDriver inicializado e login concluído.,2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4091,tbl_rpa_log_rifaina,,4091,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - WebDriver GPS reiniciado. Processamento será retomado.,2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4092,tbl_rpa_log_rifaina,,4092,Rifaina,Finalizado,Erro,"ERROR - WorkerGPS_0 - Erro na etapa GPS para instância 1938796515: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	ntdll!RtlUserThreadStart [0x7ff(...)",2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4093,tbl_rpa_log_rifaina,,4093,Rifaina,Finalizado,Sucesso,"WARNING - WorkerGPS_0 - Instância de id: 42157 marcada como erro: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	ntdll!RtlUserThreadStart [0x7ffd(...)",2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4094,tbl_rpa_log_rifaina,,4094,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42157 não foi concluída. Retorno: None.,2026-10-13 09:20:14,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4095,tbl_rpa_log_rifaina,,4095,Rifaina,Finalizado,Sucesso,INFO - OrquestradorREINS - [REINS] Orquestrador encerrado.,2026-10-13 09:20:24,2026-10-13 09:21:12.889448
+tbl_rpa_log_rifaina_4096,tbl_rpa_log_rifaina,,4096,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - [GPS] Tentativa de login 1/3.,2026-10-13 09:21:44,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4097,tbl_rpa_log_rifaina,,4097,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - GPS: Tentando fazer login...,2026-10-13 09:21:44,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4098,tbl_rpa_log_rifaina,,4098,Rifaina,Finalizado,Erro,"ERROR - WorkerGPS_1 - Erro na inicialização do WebDriver GPS: Falha ao realizar login no GPS: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\src\services\service_login_gps.py"", line 59, in fazer_login
+    return self._tentar_login_formulario()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""F:\RPAs_Backend\RPA_RIFAINA\src\services\service_login_gps.py"", line 71, in _tentar_login_formulario
+    campo_usuario = self.wait.until(EC.element_to_be_clickable((By.CLASS_NAME, self.CLASS_CAMPO_USUARIO)))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\selenium\webdriver\support\wait.py"", line 121, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message(...)",2026-10-13 09:21:49,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4099,tbl_rpa_log_rifaina,,4099,Rifaina,Finalizado,Sucesso,INFO - MainThread - === RPA Rifaina iniciada (Modo Simultâneo com Orquestradores Independentes) ===,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4100,tbl_rpa_log_rifaina,,4100,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Orquestrador iniciado com 2 workers.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4101,tbl_rpa_log_rifaina,,4101,Rifaina,Finalizado,Sucesso,INFO - OrquestradorSIEBEL - [SIEBEL] Orquestrador iniciado com 1 workers.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4102,tbl_rpa_log_rifaina,,4102,Rifaina,Finalizado,Sucesso,INFO - OrquestradorREINS - [REINS] Orquestrador iniciado com 2 workers.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4103,tbl_rpa_log_rifaina,,4103,Rifaina,Finalizado,Sucesso,INFO - MainThread - Orquestradores iniciados. Watchdog monitorando...,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4104,tbl_rpa_log_rifaina,,4104,Rifaina,Finalizado,Sucesso,INFO - AtalhoListener - CTRL+SHIFT+Q = Encerrar RPA,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4105,tbl_rpa_log_rifaina,,4105,Rifaina,Finalizado,Sucesso,INFO - AtalhoListener - CTRL+SHIFT+E = Enviar relatório manualmente,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4106,tbl_rpa_log_rifaina,,4106,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4107,tbl_rpa_log_rifaina,,4107,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - Inicializando WebDriver do sistema REINS para a thread atual.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4108,tbl_rpa_log_rifaina,,4108,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4109,tbl_rpa_log_rifaina,,4109,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - Inicializando WebDriver do sistema GPS para a thread atual.,2026-10-13 09:22:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4110,tbl_rpa_log_rifaina,,4110,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - [REINS] Tentativa de login 1/3.,2026-10-13 09:22:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4111,tbl_rpa_log_rifaina,,4111,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - GPS: Tentando fazer login...,2026-10-13 09:22:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4112,tbl_rpa_log_rifaina,,4112,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - [GPS] Tentativa de login 1/3.,2026-10-13 09:22:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4113,tbl_rpa_log_rifaina,,4113,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - GPS: Tentando fazer login...,2026-10-13 09:22:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4114,tbl_rpa_log_rifaina,,4114,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - [GPS] Tentativa de login 1/3.,2026-10-13 09:22:18,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4115,tbl_rpa_log_rifaina,,4115,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - GPS: Tentando fazer login...,2026-10-13 09:22:18,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4116,tbl_rpa_log_rifaina,,4116,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 0 | SIEBEL: 0 | REINS: 0 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:22:18,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4117,tbl_rpa_log_rifaina,,4117,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - [REINS] Tentativa de login 1/3.,2026-10-13 09:22:19,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4118,tbl_rpa_log_rifaina,,4118,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - GPS: Tentando fazer login...,2026-10-13 09:22:19,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4119,tbl_rpa_log_rifaina,,4119,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - GPS: Login realizado com sucesso!,2026-10-13 09:22:22,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4120,tbl_rpa_log_rifaina,,4120,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_1 - [GPS] WebDriver inicializado e login concluído.,2026-10-13 09:22:22,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4121,tbl_rpa_log_rifaina,,4121,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - GPS: Login realizado com sucesso!,2026-10-13 09:22:22,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4122,tbl_rpa_log_rifaina,,4122,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_0 - [REINS] WebDriver inicializado e login concluído.,2026-10-13 09:22:22,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4123,tbl_rpa_log_rifaina,,4123,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - GPS: Login realizado com sucesso!,2026-10-13 09:22:25,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4124,tbl_rpa_log_rifaina,,4124,Rifaina,Finalizado,Sucesso,INFO - WorkerREINS_1 - [REINS] WebDriver inicializado e login concluído.,2026-10-13 09:22:25,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4125,tbl_rpa_log_rifaina,,4125,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - GPS: Login realizado com sucesso!,2026-10-13 09:22:29,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4126,tbl_rpa_log_rifaina,,4126,Rifaina,Finalizado,Sucesso,INFO - WorkerGPS_0 - [GPS] WebDriver inicializado e login concluído.,2026-10-13 09:22:29,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4127,tbl_rpa_log_rifaina,,4127,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Nenhuma linha atualizada para instância id: 42157,2026-10-13 09:26:07,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4128,tbl_rpa_log_rifaina,,4128,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Nenhuma linha atualizada para instância id: 42157,2026-10-13 09:26:07,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4129,tbl_rpa_log_rifaina,,4129,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Nenhuma linha atualizada para instância id: 42157,2026-10-13 09:26:07,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4130,tbl_rpa_log_rifaina,,4130,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 3 | SIEBEL: 0 | REINS: 3 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:26:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4131,tbl_rpa_log_rifaina,,4131,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - Inicializando WebDriver do sistema SIEBEL para a thread atual.,2026-10-13 09:27:49,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4132,tbl_rpa_log_rifaina,,4132,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - [SIEBEL] Tentativa de login 1/3.,2026-10-13 09:27:51,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4133,tbl_rpa_log_rifaina,,4133,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - SIEBEL: Tentando fazer login...,2026-10-13 09:27:51,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4134,tbl_rpa_log_rifaina,,4134,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - SIEBEL: Login realizado com sucesso!,2026-10-13 09:27:57,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4135,tbl_rpa_log_rifaina,,4135,Rifaina,Finalizado,Sucesso,INFO - WorkerSIEBEL_0 - [SIEBEL] WebDriver inicializado e login concluído.,2026-10-13 09:27:57,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4136,tbl_rpa_log_rifaina,,4136,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 6 | SIEBEL: 2 | REINS: 5 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:28:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4137,tbl_rpa_log_rifaina,,4137,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42169. Abortando.,2026-10-13 09:30:04,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4138,tbl_rpa_log_rifaina,,4138,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1238962030,2026-10-13 09:30:04,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4139,tbl_rpa_log_rifaina,,4139,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42169 não foi concluída. Retorno: False.,2026-10-13 09:30:08,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4140,tbl_rpa_log_rifaina,,4140,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42170. Abortando.,2026-10-13 09:30:10,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4141,tbl_rpa_log_rifaina,,4141,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1238965079,2026-10-13 09:30:10,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4142,tbl_rpa_log_rifaina,,4142,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42170 não foi concluída. Retorno: False.,2026-10-13 09:30:13,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4143,tbl_rpa_log_rifaina,,4143,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 8 | SIEBEL: 4 | REINS: 6 | Ativos: GPS=1, SIEBEL=0, REINS=1",2026-10-13 09:30:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4144,tbl_rpa_log_rifaina,,4144,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42171. Abortando.,2026-10-13 09:31:30,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4145,tbl_rpa_log_rifaina,,4145,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1238965850,2026-10-13 09:31:30,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4146,tbl_rpa_log_rifaina,,4146,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42171 não foi concluída. Retorno: False.,2026-10-13 09:31:34,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4147,tbl_rpa_log_rifaina,,4147,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 12 | SIEBEL: 5 | REINS: 9 | Ativos: GPS=1, SIEBEL=0, REINS=2",2026-10-13 09:32:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4148,tbl_rpa_log_rifaina,,4148,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42178. Abortando.,2026-10-13 09:34:09,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4149,tbl_rpa_log_rifaina,,4149,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1127217826,2026-10-13 09:34:09,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4150,tbl_rpa_log_rifaina,,4150,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42178 não foi concluída. Retorno: False.,2026-10-13 09:34:13,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4151,tbl_rpa_log_rifaina,,4151,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42179. Abortando.,2026-10-13 09:34:14,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4152,tbl_rpa_log_rifaina,,4152,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1127218798,2026-10-13 09:34:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4153,tbl_rpa_log_rifaina,,4153,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 14 | SIEBEL: 8 | REINS: 15 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:34:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4154,tbl_rpa_log_rifaina,,4154,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42179 não foi concluída. Retorno: False.,2026-10-13 09:34:18,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4155,tbl_rpa_log_rifaina,,4155,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42180. Abortando.,2026-10-13 09:35:35,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4156,tbl_rpa_log_rifaina,,4156,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1127482486,2026-10-13 09:35:35,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4157,tbl_rpa_log_rifaina,,4157,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42180 não foi concluída. Retorno: False.,2026-10-13 09:35:39,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4158,tbl_rpa_log_rifaina,,4158,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42181. Abortando.,2026-10-13 09:35:41,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4159,tbl_rpa_log_rifaina,,4159,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1127483722,2026-10-13 09:35:41,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4160,tbl_rpa_log_rifaina,,4160,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42181 não foi concluída. Retorno: False.,2026-10-13 09:35:44,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4161,tbl_rpa_log_rifaina,,4161,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 14 | SIEBEL: 12 | REINS: 21 | Ativos: GPS=2, SIEBEL=0, REINS=1",2026-10-13 09:36:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4162,tbl_rpa_log_rifaina,,4162,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42182. Abortando.,2026-10-13 09:37:01,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4163,tbl_rpa_log_rifaina,,4163,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1935617118,2026-10-13 09:37:01,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4164,tbl_rpa_log_rifaina,,4164,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42182 não foi concluída. Retorno: False.,2026-10-13 09:37:05,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4165,tbl_rpa_log_rifaina,,4165,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42183. Abortando.,2026-10-13 09:37:07,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4166,tbl_rpa_log_rifaina,,4166,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1332276003,2026-10-13 09:37:07,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4167,tbl_rpa_log_rifaina,,4167,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42183 não foi concluída. Retorno: False.,2026-10-13 09:37:10,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4168,tbl_rpa_log_rifaina,,4168,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 14 | SIEBEL: 17 | REINS: 24 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:38:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4169,tbl_rpa_log_rifaina,,4169,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42184. Abortando.,2026-10-13 09:38:27,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4170,tbl_rpa_log_rifaina,,4170,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1332273871,2026-10-13 09:38:27,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4171,tbl_rpa_log_rifaina,,4171,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42184 não foi concluída. Retorno: False.,2026-10-13 09:38:31,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4172,tbl_rpa_log_rifaina,,4172,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42185. Abortando.,2026-10-13 09:38:33,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4173,tbl_rpa_log_rifaina,,4173,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1332276015,2026-10-13 09:38:33,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4174,tbl_rpa_log_rifaina,,4174,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42185 não foi concluída. Retorno: False.,2026-10-13 09:38:36,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4175,tbl_rpa_log_rifaina,,4175,Rifaina,Finalizado,Sucesso,WARNING - WorkerREINS_0 - Timeout de 1 minuto atingido no loader para a instância de id: 41987. Abortando.,2026-10-13 09:39:25,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4176,tbl_rpa_log_rifaina,,4176,Rifaina,Finalizado,Erro,ERROR - WorkerREINS_0 - A instância 1137190098 de id 41987 falhou na busca do REINS.,2026-10-13 09:39:26,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4177,tbl_rpa_log_rifaina,,4177,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42186. Abortando.,2026-10-13 09:39:53,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4178,tbl_rpa_log_rifaina,,4178,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1132270662,2026-10-13 09:39:53,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4179,tbl_rpa_log_rifaina,,4179,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42186 não foi concluída. Retorno: False.,2026-10-13 09:39:57,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4180,tbl_rpa_log_rifaina,,4180,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 15 | SIEBEL: 19 | REINS: 27 | Ativos: GPS=2, SIEBEL=0, REINS=1",2026-10-13 09:40:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4181,tbl_rpa_log_rifaina,,4181,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42188. Abortando.,2026-10-13 09:40:45,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4182,tbl_rpa_log_rifaina,,4182,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1142203247,2026-10-13 09:40:45,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4183,tbl_rpa_log_rifaina,,4183,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42188 não foi concluída. Retorno: False.,2026-10-13 09:40:48,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4184,tbl_rpa_log_rifaina,,4184,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 17 | SIEBEL: 21 | REINS: 34 | Ativos: GPS=2, SIEBEL=1, REINS=2",2026-10-13 09:42:16,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4185,tbl_rpa_log_rifaina,,4185,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 20 | SIEBEL: 25 | REINS: 36 | Ativos: GPS=2, SIEBEL=0, REINS=2",2026-10-13 09:44:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4186,tbl_rpa_log_rifaina,,4186,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42195. Abortando.,2026-10-13 09:45:14,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4187,tbl_rpa_log_rifaina,,4187,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1533734413,2026-10-13 09:45:14,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4188,tbl_rpa_log_rifaina,,4188,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42195 não foi concluída. Retorno: False.,2026-10-13 09:45:17,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4189,tbl_rpa_log_rifaina,,4189,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 20 | SIEBEL: 27 | REINS: 38 | Ativos: GPS=2, SIEBEL=1, REINS=0",2026-10-13 09:46:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4190,tbl_rpa_log_rifaina,,4190,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42196. Abortando.,2026-10-13 09:46:39,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4191,tbl_rpa_log_rifaina,,4191,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1533732306,2026-10-13 09:46:39,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4192,tbl_rpa_log_rifaina,,4192,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42196 não foi concluída. Retorno: False.,2026-10-13 09:46:43,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4193,tbl_rpa_log_rifaina,,4193,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42197. Abortando.,2026-10-13 09:48:05,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4194,tbl_rpa_log_rifaina,,4194,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1533731190,2026-10-13 09:48:05,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4195,tbl_rpa_log_rifaina,,4195,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42197 não foi concluída. Retorno: False.,2026-10-13 09:48:08,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4196,tbl_rpa_log_rifaina,,4196,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 21 | SIEBEL: 31 | REINS: 39 | Ativos: GPS=2, SIEBEL=0, REINS=1",2026-10-13 09:48:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4197,tbl_rpa_log_rifaina,,4197,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42198. Abortando.,2026-10-13 09:48:25,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4198,tbl_rpa_log_rifaina,,4198,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1533735373,2026-10-13 09:48:25,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4199,tbl_rpa_log_rifaina,,4199,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42198 não foi concluída. Retorno: False.,2026-10-13 09:48:29,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4200,tbl_rpa_log_rifaina,,4200,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42199. Abortando.,2026-10-13 09:49:31,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4201,tbl_rpa_log_rifaina,,4201,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1532726969,2026-10-13 09:49:31,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4202,tbl_rpa_log_rifaina,,4202,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42199 não foi concluída. Retorno: False.,2026-10-13 09:49:35,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4203,tbl_rpa_log_rifaina,,4203,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Timeout de 1 minuto atingido no loader para a instância 42200. Abortando.,2026-10-13 09:49:51,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4204,tbl_rpa_log_rifaina,,4204,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1532726408,2026-10-13 09:49:51,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4205,tbl_rpa_log_rifaina,,4205,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_0 - [GPS] Instância id=42200 não foi concluída. Retorno: False.,2026-10-13 09:49:55,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4206,tbl_rpa_log_rifaina,,4206,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 21 | SIEBEL: 33 | REINS: 43 | Ativos: GPS=2, SIEBEL=0, REINS=1",2026-10-13 09:50:15,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4207,tbl_rpa_log_rifaina,,4207,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Timeout de 1 minuto atingido no loader para a instância 42201. Abortando.,2026-10-13 09:50:57,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4208,tbl_rpa_log_rifaina,,4208,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - Processo de scrap do GPS falhou em alguma etapa para a instância: 1532734227,2026-10-13 09:50:57,2026-10-13 09:51:17.608181
+tbl_rpa_log_rifaina_4209,tbl_rpa_log_rifaina,,4209,Rifaina,Finalizado,Sucesso,WARNING - WorkerGPS_1 - [GPS] Instância id=42201 não foi concluída. Retorno: False.,2026-10-13 09:51:00,2026-10-13 09:51:17.608181

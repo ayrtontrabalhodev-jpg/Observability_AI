@@ -1,0 +1,11 @@
+﻿chave_registro,tabela_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_rifaina_4010,tbl_rpa_log_rifaina,4010,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Estado] Virada de dia: 2026-10-09 → 2026-10-10. Contadores resetados. GPS: 167, SIEBEL: 242, REINS: 176",2026-10-10 00:00:07,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4011,tbl_rpa_log_rifaina,4011,Rifaina,Finalizado,Sucesso,INFO - MainThread - 3 instâncias com erro foram redefinidas para processamento.,2026-10-10 00:00:07,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4012,tbl_rpa_log_rifaina,4012,Rifaina,Finalizado,Sucesso,INFO - MainThread - [Watchdog] 3 instâncias com erro voltaram para a fila do GPS.,2026-10-10 00:00:08,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4013,tbl_rpa_log_rifaina,4013,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Status] GPS: 0 | SIEBEL: 0 | REINS: 0 | Ativos: GPS=2, SIEBEL=1, REINS=2",2026-10-10 00:00:52,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4014,tbl_rpa_log_rifaina,4014,Rifaina,Finalizado,Sucesso,WARNING - OrquestradorGPS - [GPS] Novos agendamentos suspensos devido ao horário de corte.,2026-10-10 23:50:07,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4015,tbl_rpa_log_rifaina,4015,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Estado] Virada de dia: 2026-10-10 → 2026-10-11. Contadores resetados. GPS: 0, SIEBEL: 0, REINS: 0",2026-10-11 00:00:05,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4016,tbl_rpa_log_rifaina,4016,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Horário de corte não está ativo. Agendamentos liberados.,2026-10-11 00:00:05,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4017,tbl_rpa_log_rifaina,4017,Rifaina,Finalizado,Sucesso,WARNING - OrquestradorGPS - [GPS] Novos agendamentos suspensos devido ao horário de corte.,2026-10-11 23:50:04,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4018,tbl_rpa_log_rifaina,4018,Rifaina,Finalizado,Sucesso,INFO - OrquestradorGPS - [GPS] Horário de corte não está ativo. Agendamentos liberados.,2026-10-12 00:00:00,2026-10-12 12:36:01.603700
+tbl_rpa_log_rifaina_4019,tbl_rpa_log_rifaina,4019,Rifaina,Finalizado,Sucesso,"INFO - MainThread - [Estado] Virada de dia: 2026-10-11 → 2026-10-12. Contadores resetados. GPS: 0, SIEBEL: 0, REINS: 0",2026-10-12 00:00:02,2026-10-12 12:36:01.603700

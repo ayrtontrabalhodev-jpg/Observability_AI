@@ -1,0 +1,65 @@
+﻿chave_registro,tabela_origem,id_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_easyliteb2b_1571,tbl_rpa_log_easyliteb2b,1571,1571,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-08-13 10:00:05.033,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1572,tbl_rpa_log_easyliteb2b,1572,1572,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Em execução,Limpando pastas antigas...,2026-08-13 10:00:05.076,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1573,tbl_rpa_log_easyliteb2b,1573,1573,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260810', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260811', 'retida (delta=2d)'), ('EasyLiteNF_20260812', 'retida (delta=1d)'), ('EasyLiteNF_20260813', 'run atual')], 'erros': []}",2026-08-13 10:00:05.119,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1574,tbl_rpa_log_easyliteb2b,1574,1574,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-08-13 10:00:05.161,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1575,tbl_rpa_log_easyliteb2b,1575,1575,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 5,2026-08-13 10:00:14.940,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1576,tbl_rpa_log_easyliteb2b,1576,1576,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Em execução,Realizando download das NFs via Selenium...,2026-08-13 10:00:15.016,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1577,tbl_rpa_log_easyliteb2b,1577,1577,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,Download das NFs via Selenium finalizado.,2026-08-13 10:02:12.641,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1578,tbl_rpa_log_easyliteb2b,1578,1578,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Em execução,Iniciando consultas na API da SEFAZ...,2026-08-13 10:02:12.678,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1579,tbl_rpa_log_easyliteb2b,1579,1579,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-08-13 10:02:13.345,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1580,tbl_rpa_log_easyliteb2b,1580,1580,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Em execução,Disparando NFs por e-mail...,2026-08-13 10:02:13.377,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1581,tbl_rpa_log_easyliteb2b,1581,1581,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-08-13 10:02:13.763,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1582,tbl_rpa_log_easyliteb2b,1582,1582,Easy Lite B2B,9efaaef1-56bb-42ce-a958-012348049e99,Sucesso,End: Tempo total de execução: 00:02:10,2026-08-13 10:02:13.799,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1583,tbl_rpa_log_easyliteb2b,1583,1583,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-08-14 10:00:14.915,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1584,tbl_rpa_log_easyliteb2b,1584,1584,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Em execução,Limpando pastas antigas...,2026-08-14 10:00:15.285,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1585,tbl_rpa_log_easyliteb2b,1585,1585,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260811', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260812', 'retida (delta=2d)'), ('EasyLiteNF_20260813', 'retida (delta=1d)'), ('EasyLiteNF_20260814', 'run atual')], 'erros': []}",2026-08-14 10:00:15.323,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1586,tbl_rpa_log_easyliteb2b,1586,1586,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-08-14 10:00:15.362,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1587,tbl_rpa_log_easyliteb2b,1587,1587,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 4,2026-08-14 10:00:19.950,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1588,tbl_rpa_log_easyliteb2b,1588,1588,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Em execução,Realizando download das NFs via Selenium...,2026-08-14 10:00:20.030,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1589,tbl_rpa_log_easyliteb2b,1589,1589,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,Download das NFs via Selenium finalizado.,2026-08-14 10:01:21.540,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1590,tbl_rpa_log_easyliteb2b,1590,1590,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Em execução,Iniciando consultas na API da SEFAZ...,2026-08-14 10:01:21.577,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1591,tbl_rpa_log_easyliteb2b,1591,1591,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-08-14 10:01:22.159,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1592,tbl_rpa_log_easyliteb2b,1592,1592,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Em execução,Disparando NFs por e-mail...,2026-08-14 10:01:22.194,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1593,tbl_rpa_log_easyliteb2b,1593,1593,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-08-14 10:01:22.510,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1594,tbl_rpa_log_easyliteb2b,1594,1594,Easy Lite B2B,248136f5-dd6b-46c7-91f2-45be61fdaea9,Sucesso,End: Tempo total de execução: 00:01:19,2026-08-14 10:01:22.550,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1595,tbl_rpa_log_easyliteb2b,1595,1595,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-08-15 10:00:06.318,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1596,tbl_rpa_log_easyliteb2b,1596,1596,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Em execução,Limpando pastas antigas...,2026-08-15 10:00:06.352,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1597,tbl_rpa_log_easyliteb2b,1597,1597,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260812', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260813', 'retida (delta=2d)'), ('EasyLiteNF_20260814', 'retida (delta=1d)'), ('EasyLiteNF_20260815', 'run atual')], 'erros': []}",2026-08-15 10:00:06.388,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1598,tbl_rpa_log_easyliteb2b,1598,1598,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-08-15 10:00:06.423,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1599,tbl_rpa_log_easyliteb2b,1599,1599,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 8,2026-08-15 10:00:10.730,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1600,tbl_rpa_log_easyliteb2b,1600,1600,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Em execução,Realizando download das NFs via Selenium...,2026-08-15 10:00:10.809,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1601,tbl_rpa_log_easyliteb2b,1601,1601,Easy Lite B2B,3973f077-d406-46ca-883d-dc2b8f9094c0,Erro,"Processo finalizado com erro: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cbbeabb5+151b5]
+	chromedriver!GetHandleVerifier [0x7ff6cbbeac10+15210]
+	chromedriver!(No symbol) [0x7ff6cb715d6d]
+	chromedriver!(No symbol) [0x7ff6cb771289]
+	chromedriver!(No symbol) [0x7ff6cb77158c]
+	chromedriver!(No symbol) [0x7ff6cb7c2027]
+	chromedriver!(No symbol) [0x7ff6cb7bec0b]
+	chromedriver!(No symbol) [0x7ff6cb7637cc]
+	chromedriver!(No symbol) [0x7ff6cb7646f3]
+	chromedriver!GetHandleVerifier [0x7ff6cc20b79b+635d9b]
+	chromedriver!GetHandleVerifier [0x7ff6cc205ac6+6300c6]
+	chromedriver!GetHandleVerifier [0x7ff6cc22bcee+6562ee]
+	chromedriver!GetHandleVerifier [0x7ff6cbc08ffe+335fe]
+	chromedriver!GetHandleVerifier [0x7ff6cbc1147c+3ba7c]
+	chromedriver!GetHandleVerifier [0x7ff6cbbf4d64+1f364]
+	chromedriver!GetHandleVerifier [0x7ff6cbbf4ef4+1f4f4]
+	chromedriver!GetHandleVerifier [0x7ff6cbbd7d97+2397]
+	KERNEL32!BaseThreadInitThunk [0x7ffcb91c7ac4+14]
+	ntdll!RtlUserThreadStart [0x7ffcb949a8c1+21]
+",2026-08-15 10:05:46.704,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1602,tbl_rpa_log_easyliteb2b,1602,1602,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Start,Start: Iniciando processo de RPA EasyLiteB2B...,2026-08-16 10:00:04.274,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1603,tbl_rpa_log_easyliteb2b,1603,1603,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Em execução,Limpando pastas antigas...,2026-08-16 10:00:04.310,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1604,tbl_rpa_log_easyliteb2b,1604,1604,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,"Limpeza finalizada: {'base': 'F:\\\\RPAs_FRONTEND\\\\RPA_EASY_LITE_B2B\\\\runs', 'dias_retenção': 2, 'dry_run': False, 'removidas': [('EasyLiteNF_20260813', 'removida (delta=3d)')], 'ignoradas': [('EasyLiteNF_20260814', 'retida (delta=2d)'), ('EasyLiteNF_20260815', 'retida (delta=1d)'), ('EasyLiteNF_20260816', 'run atual')], 'erros': []}",2026-08-16 10:00:04.351,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1605,tbl_rpa_log_easyliteb2b,1605,1605,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Em execução,Iniciando coleta de dados no Teradata e MySQL...,2026-08-16 10:00:04.404,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1606,tbl_rpa_log_easyliteb2b,1606,1606,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,Coleta de dados no Teradata e MySQL finalizada. Total registros: 5,2026-08-16 10:00:07.824,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1607,tbl_rpa_log_easyliteb2b,1607,1607,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Em execução,Realizando download das NFs via Selenium...,2026-08-16 10:00:07.898,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1608,tbl_rpa_log_easyliteb2b,1608,1608,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,Download das NFs via Selenium finalizado.,2026-08-16 10:01:07.611,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1609,tbl_rpa_log_easyliteb2b,1609,1609,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Em execução,Iniciando consultas na API da SEFAZ...,2026-08-16 10:01:07.647,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1610,tbl_rpa_log_easyliteb2b,1610,1610,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,Consultas na API da SEFAZ finalizadas.,2026-08-16 10:01:08.391,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1611,tbl_rpa_log_easyliteb2b,1611,1611,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Em execução,Disparando NFs por e-mail...,2026-08-16 10:01:08.422,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1612,tbl_rpa_log_easyliteb2b,1612,1612,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,Processo de envio de NFs por e-mail finalizado.,2026-08-16 10:01:08.794,2026-10-12 21:28:20.279295
+tbl_rpa_log_easyliteb2b_1613,tbl_rpa_log_easyliteb2b,1613,1613,Easy Lite B2B,4e891dfc-0e3e-47d1-9039-8eb4ee8b401c,Sucesso,End: Tempo total de execução: 00:01:05,2026-08-16 10:01:08.833,2026-10-12 21:28:20.279295

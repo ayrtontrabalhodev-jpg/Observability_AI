@@ -1,0 +1,34 @@
+﻿id;nome;descricao;status;data_log
+1;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 4593. tbl_rpa_log_rifaina: Carga inicial concluída (4593 registro(s)) Duração: 2.03 segundo(s).;Sucesso;2026-10-13 12:10:06
+2;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 446. tbl_rpa_log_rifaina: Registros novos coletados (446 registro(s)) Duração: 1.00 segundo(s).;Sucesso;2026-10-13 16:00:36
+3;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 36. tbl_rpa_log_rifaina: Registros novos coletados (36 registro(s)) Duração: 0.87 segundo(s).;Sucesso;2026-10-13 16:30:37
+4;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 43. tbl_rpa_log_rifaina: Registros novos coletados (43 registro(s)) Duração: 0.77 segundo(s).;Sucesso;2026-10-13 17:00:38
+5;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 43. tbl_rpa_log_rifaina: Registros novos coletados (43 registro(s)) Duração: 0.89 segundo(s).;Sucesso;2026-10-13 17:30:38
+6;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 28. tbl_rpa_log_rifaina: Registros novos coletados (28 registro(s)) Duração: 0.84 segundo(s).;Sucesso;2026-10-13 18:00:39
+7;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 26. tbl_rpa_log_rifaina: Registros novos coletados (26 registro(s)) Duração: 0.80 segundo(s).;Sucesso;2026-10-13 18:30:40
+8;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.48 segundo(s).;Sucesso;2026-10-13 19:00:41
+9;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.72 segundo(s).;Sucesso;2026-10-13 19:30:41
+10;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.62 segundo(s).;Sucesso;2026-10-13 20:00:42
+11;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.78 segundo(s).;Sucesso;2026-10-13 20:30:43
+12;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.42 segundo(s).;Sucesso;2026-10-13 21:00:43
+13;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.41 segundo(s).;Sucesso;2026-10-13 21:30:44
+14;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.52 segundo(s).;Sucesso;2026-10-13 22:00:44
+15;Coleta histórico RIFAINA;Não foi possível conectar ao banco de dados. Duração: 11366.37 segundo(s).;Erro;2026-10-14 02:41:39
+16;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 38. tbl_rpa_log_rifaina: Registros novos coletados (38 registro(s)) Duração: 0.67 segundo(s).;Sucesso;2026-10-14 09:25:43
+17;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 48. tbl_rpa_log_rifaina: Registros novos coletados (48 registro(s)) Duração: 0.57 segundo(s).;Sucesso;2026-10-14 09:55:43
+18;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 55. tbl_rpa_log_rifaina: Registros novos coletados (55 registro(s)) Duração: 0.57 segundo(s).;Sucesso;2026-10-14 10:50:54
+19;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 12. tbl_rpa_log_rifaina: Registros novos coletados (12 registro(s)) Duração: 0.75 segundo(s).;Sucesso;2026-10-14 11:20:55
+20;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 18. tbl_rpa_log_rifaina: Registros novos coletados (18 registro(s)) Duração: 0.48 segundo(s).;Sucesso;2026-10-14 11:50:55
+21;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.45 segundo(s).;Sucesso;2026-10-14 12:20:56
+22;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 1.29 segundo(s).;Sucesso;2026-10-14 12:50:57
+23;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.27 segundo(s).;Sucesso;2026-10-14 13:20:57
+24;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.65 segundo(s).;Sucesso;2026-10-14 13:50:58
+25;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.63 segundo(s).;Sucesso;2026-10-14 14:20:59
+26;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 1. tbl_rpa_log_rifaina: Registros novos coletados (1 registro(s)) Duração: 1.20 segundo(s).;Sucesso;2026-10-14 14:51:00
+27;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.39 segundo(s).;Sucesso;2026-10-14 15:21:01
+28;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.73 segundo(s).;Sucesso;2026-10-14 15:51:01
+29;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 0. tbl_rpa_log_rifaina: Sem registros novos (0 registro(s)) Duração: 0.57 segundo(s).;Sucesso;2026-10-14 16:21:02
+30;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 89. tbl_rpa_log_rifaina: Registros novos coletados (89 registro(s)) Duração: 0.67 segundo(s).;Sucesso;2026-10-14 18:43:35
+31;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 17. tbl_rpa_log_rifaina: Registros novos coletados (17 registro(s)) Duração: 0.49 segundo(s).;Sucesso;2026-10-14 19:13:36
+32;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 592. tbl_rpa_log_rifaina: Registros novos coletados (592 registro(s)) Duração: 1.35 segundo(s).;Sucesso;2026-10-15 10:18:58
+33;Coleta histórico RIFAINA;Tabelas processadas: 1. Registros processados: 6. tbl_rpa_log_rifaina: Registros novos coletados (6 registro(s)) Duração: 0.89 segundo(s).;Sucesso;2026-10-15 10:30:56

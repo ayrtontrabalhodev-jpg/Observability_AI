@@ -1,0 +1,3 @@
+﻿chave_registro,tabela_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_detraf_receita_triplo_batimento_24260,tbl_rpa_log_detraf_receita_triplo_batimento,24260,Detraf Receita - Triplo Batimento,Iniciado,Sucesso,[Triplo Batimento (gatilho)] Iniciado — consultando tbl_relatorio_start por periodos pendentes,2026-10-12 08:00:19,2026-10-12 14:22:58.907074
+tbl_rpa_log_detraf_receita_triplo_batimento_24261,tbl_rpa_log_detraf_receita_triplo_batimento,24261,Detraf Receita - Triplo Batimento,Finalizado,Sucesso,[Triplo Batimento (gatilho)] Sucesso — nenhum periodo pendente em tbl_relatorio_start -- nada a processar,2026-10-12 08:00:20,2026-10-12 14:22:58.907074

@@ -1,0 +1,362 @@
+﻿chave_registro,tabela_origem,id,rpa,processo,status,resultado_evento,descricao_original,descricao_normalizada,nivel_descricao,data_log,semana_origem,categoria_validada,subcategoria_validada,causa_confirmada,acao_recomendada,criticidade_validada,status_validacao,categoria_disponivel_no_treino,categoria_real,categoria_prevista,confianca_modelo,acertou
+tbl_rpa_log_rifaina_112,tbl_rpa_log_rifaina,112,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 39951: (WLS_GPS2_INT1_PROD_Srv09) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Erro ao executar o sub-processo 'GVT Call Check Coverage WF' na etapa 'Call Check Coverage'.(SBL-BPR-00183)
+--
+Endereço salvo como uma tecnologia de acesso no entanto não foi encontrada rede de cobertura nesta tecnologia, já existindo out(...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int1_prod_srv09 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- erro ao executar o sub-processo gvt call check coverage wf na etapa call check coverage sbl-bpr- id -- endereco salvo como uma tecnologia de acesso no entanto nao foi encontrada rede de cobertura nesta tecnologia ja existindo out,ERROR,2026-10-05 15:47:06,semana_2026_41_05-10_a_11-10,Regra de Negocio,Cobertura indisponivel ou inconsistente,A tecnologia informada não possui cobertura compatível no endereço consultado.,"Validar endereço, tecnologia e disponibilidade de cobertura. Corrigir os dados antes do reprocessamento.",Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.768768256627107,True
+tbl_rpa_log_rifaina_119,tbl_rpa_log_rifaina,119,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 39969: (WLS_GPS2_INT2_PROD_Srv15) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Submit'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-00802)(SBL-BPR-00131)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-008(...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int2_prod_srv15 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa submit sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps- id sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps-008,ERROR,2026-10-05 15:56:03,semana_2026_41_05-10_a_11-10,Regra de Negocio,Atividades nao geradas ou agendadas,A ordem foi enviada antes de as atividades obrigatórias serem geradas e agendadas.,Gerar e agendar as atividades obrigatórias antes do envio da ordem e reprocessar.,Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.7550019762770419,True
+tbl_rpa_log_rifaina_188,tbl_rpa_log_rifaina,188,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 40062: (WLS_GPS2_INT1_PROD_Srv09) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Erro ao executar o sub-processo 'GVT Call Check Coverage WF' na etapa 'Call Check Coverage'.(SBL-BPR-00183)
+--
+Endereço salvo como uma tecnologia de acesso no entanto não foi encontrada rede de cobertura nesta tecnologia, já existindo out(...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int1_prod_srv09 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- erro ao executar o sub-processo gvt call check coverage wf na etapa call check coverage sbl-bpr- id -- endereco salvo como uma tecnologia de acesso no entanto nao foi encontrada rede de cobertura nesta tecnologia ja existindo out,ERROR,2026-10-05 16:45:05,semana_2026_41_05-10_a_11-10,Regra de Negocio,Cobertura indisponivel ou inconsistente,A tecnologia informada não possui cobertura compatível no endereço consultado.,"Validar endereço, tecnologia e disponibilidade de cobertura. Corrigir os dados antes do reprocessamento.",Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.768768256627107,True
+tbl_rpa_log_rifaina_194,tbl_rpa_log_rifaina,194,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 40075: (WLS_GPS2_INT2_PROD_Srv15) - br.com.gvt.jeemodelinfra.exception.BusinessException: Transaction Rolledback.: weblogic.transaction.internal.TimedOutException: Transaction timed out after 61 seconds 
+BEA1-5FD1F29CD7C5B059AD92
+	at weblogic.transaction.internal.ServerTransactionImpl.wakeUp(ServerTransactionImpl.java:2134)
+	at weblogic.transaction.internal.ServerTransactionManagerImpl.processTimedOutTransactions(ServerTransactionManagerImpl.java:1986)
+	at weblogic.transaction.internal.TransactionManagerImpl.wakeUp(TransactionManagerImpl.java:2453)
+	at weblogic.transaction.internal.ServerTransactionManagerImpl.wakeUp(ServerTransactionManagerImpl.java:1898)
+	at weblogic.transaction.internal.WLSTimer.timerExpired(WLSTimer.java:19)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:301)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:681)
+	at weblogic.invocation.ComponentInvo(...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int2_prod_srv15 - br com gvt jeemodelinfra exception businessexception transaction rolledback weblogic transaction internal timedoutexception transaction timed out after 61 seconds bea1-5fd1f29cd7c5b059ad92 at weblogic transaction internal servertransactionimpl wakeup servertransactionimpl java 2134 at weblogic transaction internal servertransactionmanagerimpl processtimedouttransactions servertransactionmanagerimpl java 1986 at weblogic transaction internal transactionmanagerimpl wakeup transactionmanagerimpl java 2453 at weblogic transaction internal servertransactionmanagerimpl wakeup servertransactionmanagerimpl java 1898 at weblogic transaction internal wlstimer timerexpired wlstimer java 19 at weblogic timers internal timerimpl run timerimpl java 301 at weblogic work selftuningworkmanagerimpl workadapterimpl run selftuningworkmanagerimpl java 681 at weblogic invocation componentinvo,ERROR,2026-10-05 16:50:49,semana_2026_41_05-10_a_11-10,Timeout,Timeout transacional,A transação excedeu o tempo máximo configurado.,"Analisar o tempo de execução da operação, disponibilidade da plataforma e logs da transação.",Alta,Validado Automaticamente,True,Timeout,Regra de Negocio,0.23002741110351943,False
+tbl_rpa_log_rifaina_334,tbl_rpa_log_rifaina,334,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerSIEBEL_0 - Falha ao realizar consulta de instancia no SIEBEL: ModelEntradaDB.atualizar_numero_ordem() missing 1 required positional argument: 'numero_ordem'
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connectionpool.py"", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connection.py"", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 1411, in getresponse
+    response.begin()
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 324, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python(...)",workersiebel_0 - falha ao realizar consulta de instancia no siebel modelentradadb atualizar_numero_ordem missing 1 required positional argument numero_ordem traceback most recent call last file caminho line 534 in _make_request response conn getresponse file caminho line 571 in getresponse httplib_response super getresponse file caminho line 1411 in getresponse response begin file caminho line 324 in begin version status reason self _read_status file caminho,ERROR,2026-10-05 18:37:42,semana_2026_41_05-10_a_11-10,Codigo Python,Erro de implementacao ou assinatura,Falha identificada no código Python ou na chamada de uma função.,Corrigir a assinatura ou chamada indicada no traceback e executar teste da etapa afetada.,Alta,Validado Automaticamente,True,Codigo Python,Codigo Python,0.7848355367465877,True
+tbl_rpa_log_rifaina_549,tbl_rpa_log_rifaina,549,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerREINS_0 - Erro ao preencher os campos de agendamento: Message: element click intercepted: Element <div aria-hidden=""true"" class=""ui-selectonemenu-trigger ui-state-default ui-corner-right"">...</div> is not clickable at point (167, 201). Other element would receive the click: <div id=""dialogError_modal"" class=""ui-widget-overlay ui-dialog-mask"" style=""z-index: 999999999;""></div>
+  (Session info: chrome=154.0.8037.58); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741df7a73]
+	chromedriver!(No symbol) [0x7ff741df567a]
+	chromedriver!(No symbol) [0x7ff741df29b7]
+	chromedriver!(No symbol) [0x7ff741df1880]
+	chromedriver!(No symbol) [0x7ff741de3828]
+	chromedriver!(No symbol) [0x7ff741e190ea]
+(...)",workerreins_0 - erro ao preencher os campos de agendamento message element click intercepted element div aria-hidden true class ui-selectonemenu-trigger ui-state-default ui-corner-right div is not clickable at point 167 201 other element would receive the click div id dialogerror_modal class ui-widget-overlay ui-dialog-mask style z-index id div session info chrome 154 0 8037 58 for documentation on this error please visit url,ERROR,2026-10-06 12:40:54,semana_2026_41_05-10_a_11-10,Interface Web,Clique interceptado,Outro elemento da página bloqueou o componente que deveria receber o clique.,"Tratar ou fechar o modal, aguardar a invisibilidade do bloqueio e repetir o clique somente depois.",Media,Validado Automaticamente,True,Interface Web,Interface Web,0.6148014042833049,True
+tbl_rpa_log_rifaina_550,tbl_rpa_log_rifaina,550,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerREINS_0 - Um erro ocorreu na tentiva de agendamento da reinstalação para a instância 40240: Message: element click intercepted: Element <div aria-hidden=""true"" class=""ui-selectonemenu-trigger ui-state-default ui-corner-right"">...</div> is not clickable at point (167, 201). Other element would receive the click: <div id=""dialogError_modal"" class=""ui-widget-overlay ui-dialog-mask"" style=""z-index: 999999999;""></div>
+  (Session info: chrome=154.0.8037.58); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741df7a73]
+	chromedriver!(No symbol) [0x7ff741df567a]
+	chromedriver!(No symbol) [0x7ff741df29b7]
+	chromedriver!(No symbol) [0x7ff741df1880]
+	chromedriver!(No symbol) [0x7ff741de3828]
+	chro(...)",workerreins_0 - um erro ocorreu na tentiva de agendamento da reinstalacao para a instancia id message element click intercepted element div aria-hidden true class ui-selectonemenu-trigger ui-state-default ui-corner-right div is not clickable at point 167 201 other element would receive the click div id dialogerror_modal class ui-widget-overlay ui-dialog-mask style z-index id div session info chrome 154 0 8037 58 for documentation on this error please visit url,ERROR,2026-10-06 12:40:56,semana_2026_41_05-10_a_11-10,Interface Web,Clique interceptado,Outro elemento da página bloqueou o componente que deveria receber o clique.,"Tratar ou fechar o modal, aguardar a invisibilidade do bloqueio e repetir o clique somente depois.",Media,Validado Automaticamente,True,Interface Web,Interface Web,0.615404796792562,True
+tbl_rpa_log_rifaina_1183,tbl_rpa_log_rifaina,1183,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 40684: (WLS_GPS2_INT1_PROD_Srv01) - br.com.gvt.jeemodelinfra.exception.BusinessException: Transaction Rolledback.: weblogic.transaction.internal.TimedOutException: Transaction timed out after 59 seconds 
+BEA1-0BDB894B834CCA99B349
+	at weblogic.transaction.internal.ServerTransactionImpl.wakeUp(ServerTransactionImpl.java:2134)
+	at weblogic.transaction.internal.ServerTransactionManagerImpl.processTimedOutTransactions(ServerTransactionManagerImpl.java:1986)
+	at weblogic.transaction.internal.TransactionManagerImpl.wakeUp(TransactionManagerImpl.java:2453)
+	at weblogic.transaction.internal.ServerTransactionManagerImpl.wakeUp(ServerTransactionManagerImpl.java:1898)
+	at weblogic.transaction.internal.WLSTimer.timerExpired(WLSTimer.java:19)
+	at weblogic.timers.internal.TimerImpl.run(TimerImpl.java:301)
+	at weblogic.work.SelfTuningWorkManagerImpl$WorkAdapterImpl.run(SelfTuningWorkManagerImpl.java:681)
+	at weblogic.invocation.ComponentInvo(...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int1_prod_srv01 - br com gvt jeemodelinfra exception businessexception transaction rolledback weblogic transaction internal timedoutexception transaction timed out after 59 seconds bea1-0bdb894b834cca99b349 at weblogic transaction internal servertransactionimpl wakeup servertransactionimpl java 2134 at weblogic transaction internal servertransactionmanagerimpl processtimedouttransactions servertransactionmanagerimpl java 1986 at weblogic transaction internal transactionmanagerimpl wakeup transactionmanagerimpl java 2453 at weblogic transaction internal servertransactionmanagerimpl wakeup servertransactionmanagerimpl java 1898 at weblogic transaction internal wlstimer timerexpired wlstimer java 19 at weblogic timers internal timerimpl run timerimpl java 301 at weblogic work selftuningworkmanagerimpl workadapterimpl run selftuningworkmanagerimpl java 681 at weblogic invocation componentinvo,ERROR,2026-10-06 20:11:10,semana_2026_41_05-10_a_11-10,Timeout,Timeout transacional,A transação excedeu o tempo máximo configurado.,"Analisar o tempo de execução da operação, disponibilidade da plataforma e logs da transação.",Alta,Validado Automaticamente,True,Timeout,Regra de Negocio,0.2218229547372776,False
+tbl_rpa_log_rifaina_1301,tbl_rpa_log_rifaina,1301,Rifaina,Finalizado,Erro,FALHA,"ERROR - MainThread - [Relatório de arquivo] Erro ao gerar ou enviar o relatório do arquivo 110: Falha ao realizar login no GPS: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=154.0.8037.58)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741d913eb]
+	chromedriver!(No symbol) [0x7ff741d81901]
+	chromedriver!(No symbol) [0x7ff741d83744]
+	chromedriver!(No symbol) [0x7ff741d81e94]
+	chromedriver!(No symbol) [0x7ff741d8166b]
+	chromedriver!(No symbol) [0x7ff741d81321]
+	chromedriver!(No symbol) [0x7ff741d7eff0]
+	chromedriver!(No symbol) [0x7ff741d7f762]
+	chromedriver!(No symbol) [0x7ff741d988e7]
+	chromedriver!(No symbol) [0x7ff741e40ab4]
+	chromedriver!(No symbol) [0x7ff741e190ea]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleV(...)",mainthread - [relatorio de arquivo] erro ao gerar ou enviar o relatorio do arquivo 110 falha ao realizar login no gps message unknown error net err_connection_reset session info chrome 154 0 8037 58,ERROR,2026-10-07 00:23:10,semana_2026_41_05-10_a_11-10,Conexao,Conexao reiniciada,A conexão foi encerrada ou reiniciada durante o acesso ao sistema.,"Validar rede, proxy e disponibilidade do sistema. Reprocessar somente após confirmar estabilidade.",Alta,Validado Automaticamente,True,Conexao,Conexao,0.48731957591550995,True
+tbl_rpa_log_rifaina_1312,tbl_rpa_log_rifaina,1312,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerREINS_0 - Erro na inicialização do WebDriver REINS: Falha ao realizar login no GPS: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=154.0.8037.58)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741d913eb]
+	chromedriver!(No symbol) [0x7ff741d81901]
+	chromedriver!(No symbol) [0x7ff741d83744]
+	chromedriver!(No symbol) [0x7ff741d81e94]
+	chromedriver!(No symbol) [0x7ff741d8166b]
+	chromedriver!(No symbol) [0x7ff741d81321]
+	chromedriver!(No symbol) [0x7ff741d7eff0]
+	chromedriver!(No symbol) [0x7ff741d7f762]
+	chromedriver!(No symbol) [0x7ff741d988e7]
+	chromedriver!(No symbol) [0x7ff741e40ab4]
+	chromedriver!(No symbol) [0x7ff741e190ea]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1(...)",workerreins_0 - erro na inicializacao do webdriver reins falha ao realizar login no gps message unknown error net err_connection_reset session info chrome 154 0 8037 58,ERROR,2026-10-07 00:26:21,semana_2026_41_05-10_a_11-10,Conexao,Conexao reiniciada,A conexão foi encerrada ou reiniciada durante o acesso ao sistema.,"Validar rede, proxy e disponibilidade do sistema. Reprocessar somente após confirmar estabilidade.",Alta,Validado Automaticamente,True,Conexao,Conexao,0.7296818352099067,True
+tbl_rpa_log_rifaina_1321,tbl_rpa_log_rifaina,1321,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerREINS_0 - Erro na inicialização do WebDriver REINS: Falha ao realizar login no GPS: Message: unknown error: net::ERR_CONNECTION_RESET
+  (Session info: chrome=154.0.8037.58)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741d913eb]
+	chromedriver!(No symbol) [0x7ff741d81901]
+	chromedriver!(No symbol) [0x7ff741d83744]
+	chromedriver!(No symbol) [0x7ff741d81e94]
+	chromedriver!(No symbol) [0x7ff741d8166b]
+	chromedriver!(No symbol) [0x7ff741d81321]
+	chromedriver!(No symbol) [0x7ff741d7eff0]
+	chromedriver!(No symbol) [0x7ff741d7f762]
+	chromedriver!(No symbol) [0x7ff741d988e7]
+	chromedriver!(No symbol) [0x7ff741e40ab4]
+	chromedriver!(No symbol) [0x7ff741e190ea]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1(...)",workerreins_0 - erro na inicializacao do webdriver reins falha ao realizar login no gps message unknown error net err_connection_reset session info chrome 154 0 8037 58,ERROR,2026-10-07 00:26:28,semana_2026_41_05-10_a_11-10,Conexao,Conexao reiniciada,A conexão foi encerrada ou reiniciada durante o acesso ao sistema.,"Validar rede, proxy e disponibilidade do sistema. Reprocessar somente após confirmar estabilidade.",Alta,Validado Automaticamente,True,Conexao,Conexao,0.7296818352099067,True
+tbl_rpa_log_rifaina_1361,tbl_rpa_log_rifaina,1361,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro na etapa GPS para instância 1633224641: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741dd712c]
+	chromedriver!(No symbol) [0x7ff741dd260a]
+	chromedriver!(No symbol) [0x7ff741e2766f]
+	chromedriver!(No symbol) [0x7ff741e26ed6]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7(...)",workergps_1 - erro na etapa gps para instancia id message session not created chrome instance exited examine chromedriver verbose log to determine the cause for documentation on this error please visit url,ERROR,2026-10-07 09:26:09,semana_2026_41_05-10_a_11-10,WebDriver,Sessao nao criada,O Chrome encerrou antes que a sessão do WebDriver fosse criada.,"Analisar o log detalhado do ChromeDriver, compatibilidade de versões, perfil do navegador e recursos disponíveis na máquina.",Alta,Validado Automaticamente,True,WebDriver,WebDriver,0.7065404270920561,True
+tbl_rpa_log_rifaina_2300,tbl_rpa_log_rifaina,2300,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerSIEBEL_0 - Falha ao realizar consulta de instancia no SIEBEL: ModelEntradaDB.atualizar_numero_ordem() missing 1 required positional argument: 'numero_ordem'
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connectionpool.py"", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connection.py"", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 1411, in getresponse
+    response.begin()
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 324, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python(...)",workersiebel_0 - falha ao realizar consulta de instancia no siebel modelentradadb atualizar_numero_ordem missing 1 required positional argument numero_ordem traceback most recent call last file caminho line 534 in _make_request response conn getresponse file caminho line 571 in getresponse httplib_response super getresponse file caminho line 1411 in getresponse response begin file caminho line 324 in begin version status reason self _read_status file caminho,ERROR,2026-10-08 13:01:26,semana_2026_41_05-10_a_11-10,Codigo Python,Erro de implementacao ou assinatura,Falha identificada no código Python ou na chamada de uma função.,Corrigir a assinatura ou chamada indicada no traceback e executar teste da etapa afetada.,Alta,Validado Automaticamente,True,Codigo Python,Codigo Python,0.7848355367465877,True
+tbl_rpa_log_rifaina_2513,tbl_rpa_log_rifaina,2513,Rifaina,Finalizado,Erro,FALHA,"ERROR - MainThread - [Relatório de arquivo] Erro ao gerar ou enviar o relatório do arquivo 113: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	nt(...)",mainthread - [relatorio de arquivo] erro ao gerar ou enviar o relatorio do arquivo 113 timeout ao fazer login no gps message,ERROR,2026-10-08 13:53:48,semana_2026_41_05-10_a_11-10,Timeout,Timeout de login,O login no GPS não foi concluído dentro do tempo configurado. Não existe evidência de credencial inválida.,"Validar disponibilidade e tempo de resposta do GPS, carregamento da tela e limite de espera antes do reprocessamento.",Alta,Validado Automaticamente,True,Timeout,Timeout,0.5264858018101047,True
+tbl_rpa_log_rifaina_2581,tbl_rpa_log_rifaina,2581,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 41236: (WLS_GPS2_INT2_PROD_Srv21) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Grau Máx. excedido. O Grau Máx. é de 1 pontos e o seu pedido é de 73.4 pontos.(SBL-BPR-00131)(SBL-BPR-00131)
+--
+Grau Máx. excedido. O Grau Máx. é de 1 pontos e o seu pedido é de 73.4 pontos.(SBL-BPR-00131)(SBL-BPR-00131)(SBL-BPR-00131)
+--(...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int2_prod_srv21 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- grau max excedido o grau max e de 1 pontos e o seu pedido e de 73 4 pontos sbl-bpr- id sbl-bpr- id -- grau max excedido o grau max e de 1 pontos e o seu pedido e de 73 4 pontos sbl-bpr- id sbl-bpr- id sbl-bpr- id --,ERROR,2026-10-08 14:14:55,semana_2026_41_05-10_a_11-10,Regra de Negocio,Grau maximo excedido,O pedido excedeu o limite de pontos aceito pela regra de negócio.,Revisar os dados e a pontuação do pedido e encaminhar para o tratamento funcional previsto.,Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.7408916066861745,True
+tbl_rpa_log_rifaina_3589,tbl_rpa_log_rifaina,3589,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerREINS_1 - Erro na etapa de REINS do GPS para a instância 1150735571: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff742049d55+5a55]
+	chromedriver!(No symbol) [0x7ff741f6f540]
+	chromedriver!(No symbol) [0x7ff741d945fd]
+	chromedriver!(No symbol) [0x7ff741defca1]
+	chromedriver!(No symbol) [0x7ff741deff6c]
+	chromedriver!(No symbol) [0x7ff741e43077]
+	chromedriver!(No symbol) [0x7ff741e3fcd9]
+	chromedriver!(No symbol) [0x7ff741de1a12]
+	chromedriver!(No symbol) [0x7ff741de2823]
+	chromedriver!GetHandleVerifier [0x7ff7424604b1+41c1b1]
+	chromedriver!GetHandleVerifier [0x7ff74248e26b+449f6b]
+	chromedriver!GetHandleVerifier [0x7ff74248274e+43e44e]
+	chromedriver!GetHandleVerifier [0x7ff7421432fe+feffe]
+	chromedriver!(No symbol) [0x7ff741f7cb55]
+	chromedriver!(No symbol) [0x7ff741f77f64]
+	chromedriver!(No symbol) [0x7ff741f780f4]
+	chromedriver!(No symbol) [0x7ff741f62e4c]
+	KERNEL32!BaseThreadInitThunk [0x7ffd44427ac4+14]
+	ntdll!RtlUserTh(...)",workerreins_1 - erro na etapa de reins do gps para a instancia id timeout ao fazer login no gps message,ERROR,2026-10-08 22:31:00,semana_2026_41_05-10_a_11-10,Timeout,Timeout de login,O login no GPS não foi concluído dentro do tempo configurado. Não existe evidência de credencial inválida.,"Validar disponibilidade e tempo de resposta do GPS, carregamento da tela e limite de espera antes do reprocessamento.",Alta,Validado Automaticamente,True,Timeout,Timeout,0.5586360197832512,True
+tbl_rpa_log_rifaina_3632,tbl_rpa_log_rifaina,3632,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerSIEBEL_0 - Falha ao realizar consulta de instancia no SIEBEL: ModelEntradaDB.atualizar_numero_ordem() missing 1 required positional argument: 'numero_ordem'
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connectionpool.py"", line 534, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File ""F:\RPAs_Backend\RPA_RIFAINA\.venv\Lib\site-packages\urllib3\connection.py"", line 571, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 1411, in getresponse
+    response.begin()
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python\Python312\Lib\http\client.py"", line 324, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File ""C:\Users\atacadoadmin\AppData\Local\Programs\Python(...)",workersiebel_0 - falha ao realizar consulta de instancia no siebel modelentradadb atualizar_numero_ordem missing 1 required positional argument numero_ordem traceback most recent call last file caminho line 534 in _make_request response conn getresponse file caminho line 571 in getresponse httplib_response super getresponse file caminho line 1411 in getresponse response begin file caminho line 324 in begin version status reason self _read_status file caminho,ERROR,2026-10-08 22:47:44,semana_2026_41_05-10_a_11-10,Codigo Python,Erro de implementacao ou assinatura,Falha identificada no código Python ou na chamada de uma função.,Corrigir a assinatura ou chamada indicada no traceback e executar teste da etapa afetada.,Alta,Validado Automaticamente,True,Codigo Python,Codigo Python,0.7848355367465877,True
+tbl_rpa_log_rifaina_3868,tbl_rpa_log_rifaina,3868,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 42029: (WLS_GPS2_INT1_PROD_Srv12) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Erro ao executar o sub-processo 'GVT Call Check Coverage WF' na etapa 'Call Check Coverage'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'EAI Siebel Adapter', método 'Upsert' na etapa 'Update Account'.(SBL-BPR-00162)
+--
+O método 'WriteRec(...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int1_prod_srv12 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- erro ao executar o sub-processo gvt call check coverage wf na etapa call check coverage sbl-bpr- id -- erro ao invocar o servico eai siebel adapter metodo upsert na etapa update account sbl-bpr- id -- o metodo writerec,ERROR,2026-10-09 17:40:55,semana_2026_41_05-10_a_11-10,Regra de Negocio,Cobertura indisponivel ou inconsistente,A tecnologia informada não possui cobertura compatível no endereço consultado.,"Validar endereço, tecnologia e disponibilidade de cobertura. Corrigir os dados antes do reprocessamento.",Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.8046241834672307,True
+tbl_rpa_log_rifaina_3919,tbl_rpa_log_rifaina,3919,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 42072: (WLS_GPS2_INT1_PROD_Srv12) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Erro ao executar o sub-processo 'GVT Call Check Coverage WF' na etapa 'Call Check Coverage'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'EAI Siebel Adapter', método 'Upsert' na etapa 'Update Account'.(SBL-BPR-00162)
+--
+O método 'WriteRec(...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int1_prod_srv12 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- erro ao executar o sub-processo gvt call check coverage wf na etapa call check coverage sbl-bpr- id -- erro ao invocar o servico eai siebel adapter metodo upsert na etapa update account sbl-bpr- id -- o metodo writerec,ERROR,2026-10-09 18:02:39,semana_2026_41_05-10_a_11-10,Regra de Negocio,Cobertura indisponivel ou inconsistente,A tecnologia informada não possui cobertura compatível no endereço consultado.,"Validar endereço, tecnologia e disponibilidade de cobertura. Corrigir os dados antes do reprocessamento.",Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.8046241834672307,True
+tbl_rpa_log_rifaina_3923,tbl_rpa_log_rifaina,3923,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 42074: (WLS_GPS2_INT1_PROD_Srv09) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--(SBL-BPR-00162)--(SBL-APS-00802)  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'NV Duplicate Address WF' na etapa 'Duplicar Endereco'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'EAI Siebel Adapter', método 'Upsert' na etapa 'Upsert'.(SBL-BPR-00162)
+--
+O método 'WriteRecord' do business component 'CUT Address' (componente de integração 'CUT Address') para registro com especificação de pesquisa '[Postal Code] = ""13503003"" AND [Street Address] = ""18"" AND [State] = ""SP"" AND [City] = ""RIO CLARO"" AND [GVT Valor 3] IS NULL AND [GVT Valor 2] IS NULL AND [GVT Valor 1] IS NULL AND [GVT Street Type] = ""R"" AND [GVT Number] = ""2029"" AND [GVT Neighborhood] = ""JARDIM SAO PAULO"" AND [GVT Complemento 3] (...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int1_prod_srv09 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id -- sbl-bpr- id -- sbl-aps- id erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo nv duplicate address wf na etapa duplicar endereco sbl-bpr- id -- erro ao invocar o servico eai siebel adapter metodo upsert na etapa upsert sbl-bpr- id -- o metodo writerecord do business component cut address componente de integracao cut address para registro com especificacao de pesquisa [postal code] id and [street address] 18 and [state] sp and [city] rio claro and [gvt valor 3] is null and [gvt valor 2] is null and [gvt valor 1] is null and [gvt street type] r and [gvt number] 2029 and [gvt neighborhood] jardim sao paulo and [gvt complemento 3],ERROR,2026-10-09 18:03:16,semana_2026_41_05-10_a_11-10,Regra de Negocio,Duplicidade ou atualizacao de endereco,A plataforma rejeitou ou não concluiu a gravação do endereço.,"Validar endereço existente, critérios de busca e dados obrigatórios antes do reprocessamento.",Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.4393479610027631,True
+tbl_rpa_log_rifaina_3994,tbl_rpa_log_rifaina,3994,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro na etapa GPS para instância 1938796041: Message: element click intercepted: Element <button id=""formFiltroPesquisa:buttonPesquisa"" name=""formFiltroPesquisa:buttonPesquisa"" class=""ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only"" onclick=""PrimeFaces.ab({s:&quot;formFiltroPesquisa:buttonPesquisa&quot;,f:&quot;formFiltroPesquisa&quot;,u:&quot;formDadosClienteAtendimento formAtalhos formMenuAbas formVisualizacaoAbas formExecucaoDiagnostico formLinks formSelecaoResultadoAtendimento formFiltroPesquisa:labelDataInicioAtendimento formExecucaoPreDiagnostico formPainelSelecaoTipificacao&quot;,onst:function(cfg){return buscarAtendimento();;},onco:function(xhr,status,args,data){javascript: bottom();;}});return false;"" type=""submit"" role=""button"" aria-disabled=""false"">...</button> is not clickable at point (676, 53). Other element would receive the click: <div id=""dialogError_modal"" class=""ui-widget-overlay ui-dialog-mask"" style=""z-index: 999999(...)",workergps_0 - erro na etapa gps para instancia id message element click intercepted element button id formfiltropesquisa buttonpesquisa name formfiltropesquisa buttonpesquisa class ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only onclick primefaces ab s quot formfiltropesquisa buttonpesquisa quot f quot formfiltropesquisa quot u quot formdadosclienteatendimento formatalhos formmenuabas formvisualizacaoabas formexecucaodiagnostico formlinks formselecaoresultadoatendimento formfiltropesquisa labeldatainicioatendimento formexecucaoprediagnostico formpainelselecaotipificacao quot onst function cfg return buscaratendimento onco function xhr status args data javascript bottom return false type submit role button aria-disabled false button is not clickable at point 676 53 other element would receive the click div id dialogerror_modal class ui-widget-overlay ui-dialog-mask style z-index id,ERROR,2026-10-09 19:09:07,semana_2026_41_05-10_a_11-10,Interface Web,Clique interceptado,Outro elemento da página bloqueou o componente que deveria receber o clique.,"Tratar ou fechar o modal, aguardar a invisibilidade do bloqueio e repetir o clique somente depois.",Media,Validado Automaticamente,True,Interface Web,Interface Web,0.4553986959814743,True
+tbl_rpa_log_rifaina_3998,tbl_rpa_log_rifaina,3998,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro na etapa GPS para instância 1147265274: Message: element click intercepted: Element <button id=""formFiltroPesquisa:buttonPesquisa"" name=""formFiltroPesquisa:buttonPesquisa"" class=""ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only"" onclick=""PrimeFaces.ab({s:&quot;formFiltroPesquisa:buttonPesquisa&quot;,f:&quot;formFiltroPesquisa&quot;,u:&quot;formDadosClienteAtendimento formAtalhos formMenuAbas formVisualizacaoAbas formExecucaoDiagnostico formLinks formSelecaoResultadoAtendimento formFiltroPesquisa:labelDataInicioAtendimento formExecucaoPreDiagnostico formPainelSelecaoTipificacao&quot;,onst:function(cfg){return buscarAtendimento();;},onco:function(xhr,status,args,data){javascript: bottom();;}});return false;"" type=""submit"" role=""button"" aria-disabled=""false"">...</button> is not clickable at point (676, 53). Other element would receive the click: <div id=""dialogError_modal"" class=""ui-widget-overlay ui-dialog-mask"" style=""z-index: 999999(...)",workergps_0 - erro na etapa gps para instancia id message element click intercepted element button id formfiltropesquisa buttonpesquisa name formfiltropesquisa buttonpesquisa class ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only onclick primefaces ab s quot formfiltropesquisa buttonpesquisa quot f quot formfiltropesquisa quot u quot formdadosclienteatendimento formatalhos formmenuabas formvisualizacaoabas formexecucaodiagnostico formlinks formselecaoresultadoatendimento formfiltropesquisa labeldatainicioatendimento formexecucaoprediagnostico formpainelselecaotipificacao quot onst function cfg return buscaratendimento onco function xhr status args data javascript bottom return false type submit role button aria-disabled false button is not clickable at point 676 53 other element would receive the click div id dialogerror_modal class ui-widget-overlay ui-dialog-mask style z-index id,ERROR,2026-10-09 19:09:12,semana_2026_41_05-10_a_11-10,Interface Web,Clique interceptado,Outro elemento da página bloqueou o componente que deveria receber o clique.,"Tratar ou fechar o modal, aguardar a invisibilidade do bloqueio e repetir o clique somente depois.",Media,Validado Automaticamente,True,Interface Web,Interface Web,0.4553986959814743,True
+tbl_rpa_log_rifaina_5308,tbl_rpa_log_rifaina,5308,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 42833: (WLS_GPS2_INT2_PROD_Srv04) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Submit'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-00802)(SBL-BPR-00131)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-008(...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int2_prod_srv04 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa submit sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps- id sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps-008,ERROR,2026-10-14 10:02:05,semana_2026_42_12-10_a_18-10,Regra de Negocio,Atividades nao geradas ou agendadas,A ordem foi enviada antes de as atividades obrigatórias serem geradas e agendadas.,Gerar e agendar as atividades obrigatórias antes do envio da ordem e reprocessar.,Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.7554379140173898,True
+tbl_rpa_log_rifaina_5385,tbl_rpa_log_rifaina,5385,Rifaina,Finalizado,Erro,FALHA,"ERROR - MainThread - [Relatório de arquivo] Erro ao gerar ou enviar o relatório do arquivo 121: Timeout ao fazer login no GPS: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff639b15805]
+	(No symbol) [0x7ff639a37d50]
+	(No symbol) [0x7ff6398546dd]
+	(No symbol) [0x7ff6398afff1]
+	(No symbol) [0x7ff6398b02bc]
+	(No symbol) [0x7ff639908857]
+	(No symbol) [0x7ff6399054e1]
+	(No symbol) [0x7ff6398a1d52]
+	(No symbol) [0x7ff6398a2b63]
+	(No symbol) [0x7ff639f38531]
+	(No symbol) [0x7ff639f6430b]
+	(No symbol) [0x7ff639f5823e]
+	(No symbol) [0x7ff639c1523e]
+	(No symbol) [0x7ff639a457a5]
+	(No symbol) [0x7ff639a407e4]
+	(No symbol) [0x7ff639a40974]
+	(No symbol) [0x7ff639a2b5fc]
+	(No symbol) [0x7ffd44427ac4]
+	(No symbol) [0x7ffd446fa8c1]
+Traceback (most recent call last):
+  File ""F:\RPAs_Backend\RPA_RIFAINA\src\services\service_login_gps.py"", line 59, in fazer_login
+    return self._tentar_login_formulario()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File(...)",mainthread - [relatorio de arquivo] erro ao gerar ou enviar o relatorio do arquivo 121 timeout ao fazer login no gps message,ERROR,2026-10-14 11:31:35,semana_2026_42_12-10_a_18-10,Timeout,Timeout de login,O login no GPS não foi concluído dentro do tempo configurado. Não existe evidência de credencial inválida.,"Validar disponibilidade e tempo de resposta do GPS, carregamento da tela e limite de espera antes do reprocessamento.",Alta,Validado Automaticamente,True,Timeout,Timeout,0.5150022761332375,True
+tbl_rpa_log_rifaina_5470,tbl_rpa_log_rifaina,5470,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_0 - Erro da plataforma para instância 42974: (WLS_GPS2_INT1_PROD_Srv23) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Generate Act'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Generate Activities'.(SBL-BPR-00162)
+--
+Cliente ativo com protocolo de VOZ SIP, obrigatório produto de banda larga com velocidade mínima de 1 Mbps. Por favor, abrir SOS para o backoffice do CRM
+(SBL-BPR-00131)(SBL-BPR-00131)(SBL-BPR-00131)
+--
+GVT Generate Submit WF error: Erro (...)",workergps_0 - erro da plataforma para instancia id wls_gps2_int1_prod_srv23 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa generate act sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- gvt generate submit wf error erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa generate activities sbl-bpr- id -- cliente ativo com protocolo de voz sip obrigatorio produto de banda larga com velocidade minima de 1 mbps por favor abrir sos para o backoffice do crm sbl-bpr- id sbl-bpr- id sbl-bpr- id -- gvt generate submit wf error erro,ERROR,2026-10-14 18:36:36,semana_2026_42_12-10_a_18-10,Regra de Negocio,Produto obrigatorio ausente,A regra exige produto de banda larga mínimo para cliente ativo com voz SIP.,Validar a composição do pedido e seguir a orientação funcional ou do backoffice.,Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.7636188347192248,True
+tbl_rpa_log_rifaina_5573,tbl_rpa_log_rifaina,5573,Rifaina,Finalizado,Erro,FALHA,"ERROR - WorkerGPS_1 - Erro da plataforma para instância 43150: (WLS_GPS2_INT2_PROD_Srv13) - br.com.gvt.jeemodelinfra.exception.BusinessException: Error Rifaina Process (SBL-BPR-00183)--(SBL-BPR-00183)--WF_ERR_CUSTOM_1--WF_ERR_CUSTOM_1  Erro ao executar o sub-processo 'NV Order Process Rifaina WF' na etapa 'Rifaina Process'.(SBL-BPR-00183)
+--
+Erro ao executar o sub-processo 'GVT Generate Submit WF' na etapa 'Submit'.(SBL-BPR-00183)
+--
+GVT Generate Submit WF error: Erro ao executar o sub-processo 'GVT Generate Submit SubProcess WF' na etapa 'GVT Generate Submit SubProcess'.(SBL-BPR-00183)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-00802)(SBL-BPR-00131)
+--
+Erro ao invocar o serviço 'SIS OM PMT Service', método 'Invoke BC Method' na etapa 'Submit'.(SBL-BPR-00162)
+--
+As atividades devem geradas e agendadas antes de enviar a ordem.
+(SBL-APS-008(...)",workergps_1 - erro da plataforma para instancia id wls_gps2_int2_prod_srv13 - br com gvt jeemodelinfra exception businessexception error rifaina process sbl-bpr- id -- sbl-bpr- id --wf_err_custom_1--wf_err_custom_1 erro ao executar o sub-processo nv order process rifaina wf na etapa rifaina process sbl-bpr- id -- erro ao executar o sub-processo gvt generate submit wf na etapa submit sbl-bpr- id -- gvt generate submit wf error erro ao executar o sub-processo gvt generate submit subprocess wf na etapa gvt generate submit subprocess sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps- id sbl-bpr- id -- erro ao invocar o servico sis om pmt service metodo invoke bc method na etapa submit sbl-bpr- id -- as atividades devem geradas e agendadas antes de enviar a ordem sbl-aps-008,ERROR,2026-10-14 20:44:24,semana_2026_42_12-10_a_18-10,Regra de Negocio,Atividades nao geradas ou agendadas,A ordem foi enviada antes de as atividades obrigatórias serem geradas e agendadas.,Gerar e agendar as atividades obrigatórias antes do envio da ordem e reprocessar.,Media,Validado Automaticamente,True,Regra de Negocio,Regra de Negocio,0.7581469847992414,True

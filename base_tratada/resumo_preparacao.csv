@@ -1,0 +1,2 @@
+﻿data_processamento,arquivos_encontrados,arquivos_processados,arquivos_com_erro,registros_antes_duplicidade,duplicidades_removidas,total_registros,total_tabelas,total_sucesso,total_falha,total_iniciado,descricao_info,descricao_warning,descricao_error,descricao_sem_nivel,eventos_atencao,data_inicial,data_final
+2026-10-13 11:27:55,52,42,10,7937,0,7937,6,5731,481,1725,2062,2007,140,3728,481,2026-08-13 14:14:53,2026-10-13 09:51:00

@@ -1,0 +1,12 @@
+﻿tabela,status,registros,mensagem,data_execucao
+tbl_rpa_log_rifaina,Sucesso,4019,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_despesa_contestacao,Sem registros,0,Nenhum registro encontrado no período.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_despesa_contestacao_recuperacao,Sem registros,0,Nenhum registro encontrado no período.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_despesa_expectativa,Sem registros,0,Nenhum registro encontrado no período.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_despesa_operadora,Sem registros,0,Nenhum registro encontrado no período.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_receita_batimento_agi,Sucesso,899,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_receita_cliente_sap,Sucesso,546,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_receita_rateio,Sucesso,566,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_receita_triplo_batimento,Sucesso,1658,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_detraf_status_itx,Sucesso,41,Carga histórica concluída.,2026-10-12 21:28:20
+tbl_rpa_log_easyliteb2b,Sucesso,622,Carga histórica concluída.,2026-10-12 21:28:20

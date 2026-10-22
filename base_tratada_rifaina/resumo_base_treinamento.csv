@@ -1,0 +1,2 @@
+﻿data_processamento,total_falhas,falhas_classificadas,falhas_sem_classificacao,registros_treinamento,registros_revisao_humana,quantidade_categorias,data_inicial,data_final,distribuicao_categorias
+2026-10-15 10:32:11,245,245,0,140,105,7,2026-10-05 15:44:28,2026-10-15 08:48:12,"{'Interface Web': 40, 'Regra de Negocio': 39, 'Timeout': 33, 'Conexao': 11, 'Codigo Python': 6, 'WebDriver': 6, 'Sistema Externo': 5}"

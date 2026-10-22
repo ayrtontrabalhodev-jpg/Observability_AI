@@ -1,0 +1,2 @@
+﻿data_processamento,arquivos_encontrados,arquivos_processados,arquivos_com_erro,registros_antes_duplicidade,duplicidades_removidas,total_registros,total_iniciado,total_sucesso,total_falha,descricao_info,descricao_warning,descricao_error,descricao_sem_nivel,padroes_falha,data_inicial,data_final
+2026-10-15 10:32:11,2,2,0,6091,0,6091,0,5846,245,3268,2578,245,0,81,2026-10-05 15:18:44,2026-10-15 10:30:44

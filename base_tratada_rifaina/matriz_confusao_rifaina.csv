@@ -1,0 +1,7 @@
+﻿categoria_real,Codigo Python,Conexao,Interface Web,Regra de Negocio,Timeout,WebDriver
+Codigo Python,3,0,0,0,0,0
+Conexao,0,3,0,0,0,0
+Interface Web,0,0,4,0,0,0
+Regra de Negocio,0,0,0,10,0,0
+Timeout,0,0,0,2,3,0
+WebDriver,0,0,0,0,0,1

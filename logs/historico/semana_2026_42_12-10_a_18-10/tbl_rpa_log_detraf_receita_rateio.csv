@@ -1,0 +1,3 @@
+﻿chave_registro,tabela_origem,id_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_detraf_receita_rateio_23230,tbl_rpa_log_detraf_receita_rateio,23230.0,23230,Detraf Receita - Rateio,Iniciado,Sucesso,[Rateio] Iniciado — Início da tratativa de erros / rateio,2026-10-12 10:00:03,2026-10-12 21:28:19.061296
+tbl_rpa_log_detraf_receita_rateio_23231,tbl_rpa_log_detraf_receita_rateio,23231.0,23231,Detraf Receita - Rateio,Finalizado,Sucesso,[Rateio] Sucesso — Base de referência ausente/ilegível (TABELA_RATEIO_202607.txt) — nenhum insumo processado. Conferir o arquivo na pasta e o PERIODO_REF (202607).,2026-10-12 10:00:08,2026-10-12 21:28:19.061296

@@ -1,0 +1,75 @@
+{
+    "tbl_rpa_log_rifaina": {
+        "ultimo_id": 4019,
+        "ultima_consulta": "2026-10-12T20:16:26.717835",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_contestacao_receita_arquivos": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T14:22:56.780529",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0,
+        "ultimo_erro": "ProgrammingError: 1054 (42S22): Unknown column 'id' in 'field list'"
+    },
+    "tbl_rpa_log_detraf_despesa_contestacao": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T20:16:26.916923",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_despesa_contestacao_recuperacao": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T20:16:27.147669",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_despesa_expectativa": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T20:16:27.381327",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_despesa_operadora": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T20:16:27.570796",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_status_itx": {
+        "ultimo_id": 0,
+        "ultima_consulta": "2026-10-12T20:16:28.459374",
+        "ultima_coleta_com_dados": null,
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_receita_batimento_agi": {
+        "ultimo_id": 23809,
+        "ultima_consulta": "2026-10-12T20:16:27.752332",
+        "ultima_coleta_com_dados": "2026-10-12T14:22:58.873418",
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_receita_cliente_sap": {
+        "ultimo_id": 23159,
+        "ultima_consulta": "2026-10-12T20:16:27.943509",
+        "ultima_coleta_com_dados": "2026-10-12T19:16:24.016791",
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_receita_rateio": {
+        "ultimo_id": 23231,
+        "ultima_consulta": "2026-10-12T20:16:28.131707",
+        "ultima_coleta_com_dados": "2026-10-12T14:22:58.901972",
+        "quantidade_ultima_coleta": 0
+    },
+    "tbl_rpa_log_detraf_receita_triplo_batimento": {
+        "ultimo_id": 24267,
+        "ultima_consulta": "2026-10-12T20:16:28.680541",
+        "ultima_coleta_com_dados": "2026-10-12T20:16:28.680541",
+        "quantidade_ultima_coleta": 2
+    },
+    "tbl_rpa_log_easyliteb2b": {
+        "ultimo_id": 2192,
+        "ultima_consulta": "2026-10-12T20:16:28.637634",
+        "ultima_coleta_com_dados": "2026-10-12T14:22:58.930585",
+        "quantidade_ultima_coleta": 0
+    }
+}

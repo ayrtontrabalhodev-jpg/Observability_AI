@@ -1,0 +1,3 @@
+﻿chave_registro,tabela_origem,id,rpa,processo,status,descricao,data_log,data_extracao
+tbl_rpa_log_detraf_receita_cliente_sap_23156,tbl_rpa_log_detraf_receita_cliente_sap,23156,Detraf Receita - Cliente SAP,Iniciado,Sucesso,[Criação/Expansão de operadoras] Iniciado — Início do cadastro/expansão de operadoras no SAP,2026-10-12 17:00:03,2026-10-12 17:16:15.078968
+tbl_rpa_log_detraf_receita_cliente_sap_23157,tbl_rpa_log_detraf_receita_cliente_sap,23157,Detraf Receita - Cliente SAP,Finalizado,Sucesso,[Criação/Expansão de operadoras] Pulado — Nada a processar — nenhum insumo encontrado na pasta,2026-10-12 17:00:07,2026-10-12 17:16:15.078968
