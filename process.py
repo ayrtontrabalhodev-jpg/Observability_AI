@@ -33,7 +33,9 @@ class process_handle:
                         minutes=(
                             intervalo_coleta_minutos
                         )
-                    )
+                    ) 
+
+                    
                 )
 
                 print(
