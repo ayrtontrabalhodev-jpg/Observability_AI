@@ -1,0 +1,7 @@
+pandas
+python-dotenv
+SQLAlchemy
+mysql-connector-python
+openpyxl
+mysql-connector-python
+python-dotenv
